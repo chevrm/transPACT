@@ -7,7 +7,7 @@
     }
   ], "metadata":
   {"invocation":
-    "pplacer -t .\/data\/dendrogram20190514\/RAxML_bestTree.649KS_sequences_hmmalign_raxml_renamed.tre -r .\/data\/dendrogram20190514\/649KS_sequences_031218.fasta -o \/home\/mchevrette\/git\/antismash-transat\/antismash\/specific_modules\/nrpspks\/nrpspksdomainalign\/pplacer_tree.jplace -c .\/data\/dendrogram20190514\/RAxML_bestTree.649KS_sequences_hmmalign_raxml_renamed.refpkg \/home\/mchevrette\/git\/antismash-transat\/antismash\/specific_modules\/nrpspks\/nrpspksdomainalign\/aligned.fasta"
+    "pplacer -t .\/data\/dendrogram20190514\/RAxML_bestTree.649KS_sequences_hmmalign_raxml_renamed.tre -r .\/data\/dendrogram20190514\/649KS_sequences_031218.fasta -o \/home\/mchevrette\/git\/impact\/antismash\/specific_modules\/nrpspks\/nrpspksdomainalign\/pplacer_tree.jplace -c .\/data\/dendrogram20190514\/RAxML_bestTree.649KS_sequences_hmmalign_raxml_renamed.refpkg \/home\/mchevrette\/git\/impact\/antismash\/specific_modules\/nrpspks\/nrpspksdomainalign\/aligned.fasta"
   }, "version": 3, "fields":
   ["distal_length", "edge_num", "like_weight_ratio", "likelihood",
     "pendant_length"
