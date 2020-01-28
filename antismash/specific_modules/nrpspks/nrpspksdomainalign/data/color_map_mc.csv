@@ -1,0 +1,113 @@
+Color_hex,Color_name,KS_name,KS_desc
+#254980,blue,bimod eDB,bimodule e-configured double bond
+#254980,blue,biMod eDB,bimodule e-configured double bonds
+#254980,blue,bimod zDB,bimodule z-configured double bond
+#254980,blue,eD,e-configured double bond
+#254980,blue,eDB   ,e-configured double bond    
+#254980,blue,zcrotonyl,z-configured crotonyl
+#254980,blue,zDB,z-configured double bond
+#254980,blue,zDB,z-configured double bond
+#45ff3f,bright_green,a D OH,alpha D-OH
+#45ff3f,bright_green,b L OH,beta L-OH
+#45ff3f,bright_green,b D OH,beta D-OH
+#45ff3f,bright_green,b L OH,beta L-OH
+#45ff3f,bright_green,bimod bOH,bimodule beta OH
+#45ff3f,bright_green,bOH ,beta OH
+#00e8ee,cyan,a L Me red,alpha L-Methyl reduced
+#00e8ee,cyan,redaMe,reduced alpha Methyl
+#00e8ee,cyan,adiMebketo,alpha dimethyl beta keto
+#00e8ee,cyan,reda D Me,reduced alpha D-Methyl
+#00e8ee,cyan,aMe,alpha Methyl
+#00e8ee,cyan,reda L Me,reduced alpha L Methyl
+#00e8ee,cyan,a L Me,alpha L-Methyl     
+#00e8ee,cyan,redaMe,reduced alpha Methyl
+#00e8ee,cyan,reda L Me,reduced alpha L Methyl
+#00b2c1,dark_cyan,adiMeb D OH,alpha dimethyl beta D-OH
+#00b2c1,dark_cyan,a L Meb L OH,alpha L-Methyl beta L-OH
+#00b2c1,dark_cyan,a Meb OH,alpha Methyl beta OH
+#00b2c1,dark_cyan,a D Meb D OH ,alpha D Methyl beta D OH
+#00b2c1,dark_cyan,a D Me b D OH,alpha D Methyl beta D OH
+#00b2c1,dark_cyan,a L Mb L OH,alpha L-Methyl beta L-OH
+#00b2c1,dark_cyan,a D Meb D-OH,alpha D Methyl beta D OH
+#00b2c1,dark_cyan,a D Mb L OH,alphae D Methyl beta L OH
+#00b2c1,dark_cyan,a D Me b L OH,alpha D Methyl beta L-OH
+#00b2c1,dark_cyan,a L Meb L OH,alpha L Methyl beta L-OH
+#00b2c1,dark_cyan,diMb L OH,alpha di Methyl beta L-OH
+#00b2c1,dark_cyan,a L Meb D-OH,alpha L-Methyl beta D-OH
+#676767,dark_gray,bketo,beta keto
+#676767,dark_gray,bketo,beta keto
+#00721f,dark_green,vinylogous,vinylogous chain branching
+#00721f,dark_green,cyclization,unusual Cyclization
+#750c9a,dark_purple,GNAT starter,acetyl starter introduced by GNAT domains
+#750c9a,dark_purple,unusualStarters acrylolyl,unusual acrylolyl Starter
+#750c9a,dark_purple,unusual Starter,unusual Starter
+#750c9a,dark_purple,acetylStarter,acetyl Starter   
+#750c9a,dark_purple,aromaticStarter,aromatic Starter
+#750c9a,dark_purple,acetyl    ,acetyl Starter
+#750c9a,dark_purple,Starter,various Starters
+#750c9a,dark_purple,unusualstarter AMT,unusual Starter introduced by AMT
+#750c9a,dark_purple,unusualStarter    ,unusual Starter
+#750c9a,dark_purple,unusualStarters Succ,unusual Starter (succinate)
+#750c9a,dark_purple,AcStarter,Acetyl Starter
+#750c9a,dark_purple,unusualstarter lactate,unusual lactate Starter
+#750c9a,dark_purple,lactateStarter,Lactate Starter
+#9a0c0c,dark_red,red,reduced
+#9a0c0c,dark_red,shDB,shifted double bond
+#9a0c0c,dark_red,shDB,shifted double bond
+#9a0c0c,dark_red,a D MeshDB,alpha D Methyl shifted double bonds
+#9a0c0c,dark_red,aMeshDB,alpha Methyl shifted double bond
+#3a97d0,dark_sky,pyran,pyran ring
+#3a97d0,dark_sky,furan,furan ring
+#c9a200,dark_yellow,AAala,Amino Acid (alanine)
+#c9a200,dark_yellow,AAgly,Amino Acid (glycine)
+#c9a200,dark_yellow,AAoxa,Amino Acid (oxazole ring)
+#c9a200,dark_yellow,AAthr,Amino Acid (threonine)
+#00c936,green,bMe,beta Methyl
+#00c936,green,bMeDB,beta Methyl double bond
+#00c936,green,bMeDB,beta Methyl Double bond
+#00c936,green,bMeeDB,beta Methyl e-configured double bond
+#00c936,green,eDBbMe,e-configured double bond beta Methyl
+#00c936,green,bMe,beta Methyl
+#00c936,green,redbMe,reduced beta Methyl
+#c800c9,magenta,exoester,exoester
+#c800c9,magenta,exometh,exomethylene
+#aeaeae,mid_gray,a D Meb keto,alpha D Methyl beta keto
+#aeaeae,mid_gray,aMe keto,alpha Methyl beta keto
+#aeaeae,mid_gray,aMeb keto,alpha Methyl beta keto
+#d247be,pink,rearrangement,oxygen insertion
+#db3d3d,red,0,non elongating
+#db3d3d,red,0a D Meb D OH,non-elongating alpha D-Methyl beta D-OH
+#db3d3d,red,0a D Ohb L OH,non-elongating alpha D-OH beta L-OH
+#db3d3d,red,0a L Omebketo,non-elongating alpha L-O-Methyl beta keto
+#db3d3d,red,0aMe,non-elongating alpha Methyl
+#db3d3d,red,0AAoxz,non-elongating Amino Acids (oxazole rings)
+#db3d3d,red,0AAoxa,non-elongating Amino Acids (oxazole rings)
+#db3d3d,red,0b D OH,non-elongating beta D-OH
+#db3d3d,red,0bketo,non-elongating beta keto
+#db3d3d,red,0b L OH,non-elongating beta L-OH
+#db3d3d,red,0b L OH,non-elongating beta L-OH
+#db3d3d,red,0bimod b D OH,non-elongating bimodule beta D OH
+#db3d3d,red,bimod 0b L OH,non-elongating bimodule beta L-OH
+#db3d3d,red,0bimod bOH,non-elongating bimodule beta OH
+#db3d3d,red,0Hbimod bOH,non-elongating bimodule beta OH
+#db3d3d,red,0bimod eDB,non-elongating bimodule e-configured double bonds
+#db3d3d,red,0Hbimod OH,non-elongating bimodule OH
+#db3d3d,red,0eDB   ,non-elongating e-configured double bond   
+#db3d3d,red,0eDBbMe,non-elongating e-configured double bond beta Methyl
+#db3d3d,red,0eDB,non-elongating e-configured double bonds
+#db3d3d,red,0acetal,non-elongating hemicacetale
+#db3d3d,red,0pyran,non-elongating pyran ring
+#db3d3d,red,0rearrangement,non-elongating rearrangement
+#db3d3d,red,0red    ,non-elongating reduced   
+#db3d3d,red,0reda L Me,non-elongating reduced alpha L-Methyl
+#db3d3d,red,0zDB,non-elongating z-configured double bond
+#8ac4f0,sky,bOMe,Beta O-Methyl
+#8ac4f0,sky,b D Ome,beta D-O-Methyl
+#8ac4f0,sky,b L Ome,beta L-O-Methyl
+#2da8b2,teal,aMeDB,alpha methyl double bond
+#2da8b2,teal,aMeeDB,alpha Methyl e-configured double bond
+#2da8b2,teal,aMezDB,alpha Methyl z-configured double bond
+#2da8b2,teal,zDBaMe,z-configured double bond alpha Methyl
+#ffffff,white,default,NA
+#e1e316,yellow,a D OHb L OH,alpha D-OH beta L-OH
+#e1e316,yellow,a L Ohb L OH,alpha L-OH beta L-OH

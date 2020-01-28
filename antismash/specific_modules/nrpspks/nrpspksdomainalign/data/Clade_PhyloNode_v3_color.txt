@@ -1,0 +1,50 @@
+index	clade_index	PhyloNode_index	function_annotation	color	
+1	I_a	27	AA	#FFB6C1	
+2	II_a	72	double_bonds/shifted_double_conds	#DA70D6	purple
+3	III_a	80	non-elongating (OH_goups)	#0000FF	blue
+4	IV_a	143	starter	#7FFFD4	green
+5	V	148	unususal_branching	#BC8F8F	
+6	VI_a	158	L-OH	#FF8C00	
+7	I_b	190	glycine	#DB7093	
+8	VII	204	Ester-bond_formation	#BDB76B	
+9	VIII	211	reduced	#00FFFF	
+10	IX	266	pyran_nring	#808000	
+11	II_b	299	shifted_double_bonds+alpha_methyl	#D8BFD8	
+12	IV_b	306	GNAT_Acetyl_starter+various_unusual_starter	#66CDAA	
+13	IV_c	331	various_unusual_starter	#00FA9A	
+14	IV_d	341	acetyl_starter	#90EE90	
+15	II_c1	356	double_bonds (z-configured)	#DDA0DD	
+16	II_c2	381	oxazole_ring	#FF00FF	
+17	II_c3	394	double_bonds	#8B008B	
+18	II_c4	471	double_bonds (for_unusual_formation)	#BA55D3	
+19	II_c5	478	double_bonds	#9400D3	
+20	VI_b	532	Hydroxy (some_with_methyl)	#D2B48C	
+21	VI_c	544	D-OHL-methyl/D_OH	#FFDEAD	
+22	III_b	617	non-elongating (beta_OH+mostly_alpha_methyl)	#00008B	
+23	II_d	635	double_bond+alpha_methyl	#4B0082	
+24	IV_e	690	alpha_hydroxy_starter	#32CD32
+25	X	698	keto	#AFEEEE
+26	VI_d	705	D-OH (some_with_methyl_groups)	#DAA520	
+27	III_c	722	non-elongating_KS (oxazole_units)	#4169E1	
+28	III_d	735	non-elongatingdouble_bonds (unfold)	#6495ED	
+29	II_e	778	z-double_bonds	#9370DB	
+30	II_f	783	e-double_bonds (some_starters)	#6A5ACD	
+31	XI_a	795	OH+Methyl	#FFA07A	
+32	III_e	810	non-elongation_KS_after_TE_domain	#1E90FF	
+33	XII_a	822	exomethylene_groups	#CD5C5C	
+34	XIII	826	unusual_beta_branching	#008B8B	
+35	XII_b	839	exomethylene_groups	#B22222	
+36	XI_b	857	alpha_methyl	#FF7F50	
+37	XI_c	913	alpha_methyl (some_with_beta_OH)	#FF4500	
+38	IV_f	926	unusual_starter (oocydin-like_starter)	#006400	
+39	VI_e	933	OMe	#B8860B	
+40	II_g	944	Double_bonds (e-configured)	#483D8B	
+41	XIV	969	double_bonds+methyl_branch (OME)	#FFFF00	
+42	XV	989	OH+methyl	#FF69B4	
+43	XVI	1023	alpha_OH_beta_OH	#DC143C	
+44	VI_f	1029	L-OH	#F5DEB3	
+45	III_f	1072	non-elongating (beta_OH)	#4682B4	
+46	XVII	1089	iturin-type_lipopeptide	#8FBC8F	
+47	XVIII	1096	OH_or_double_bonds	#6B8E23	
+48	III_g	1112	non-elongating (type_B_bimodule_OH)	#00BFFF	
+49	III_h	1122	non-elongating (type_B_bimodule)	#B0E0E6	

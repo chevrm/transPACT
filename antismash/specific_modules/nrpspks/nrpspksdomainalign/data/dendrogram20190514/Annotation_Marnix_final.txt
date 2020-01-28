@@ -1,0 +1,753 @@
+kalimantacin batumin Bat2 1 KS2 AAGly	Clade_1	amino acids
+FR901464 Fr9D 1 KS4 AAthr	Clade_1	amino acids
+thailanstatin TstDEF 1 KS4 AAthr	Clade_1	amino acids
+psymberin PsyD 2 KS4 AAgly	Clade_1	amino acids
+myxovirescin Ta1 1 KS1 AAgly	Clade_1	amino acids
+thailandamide TaiE 1 KS5 AAala	Clade_1	amino acids
+calyculin CalB 2 KS4 AAgly	Clade_1	amino acids
+calyculin CalH 2 KS26 AAala	Clade_1	amino acids 
+bacillaene Bsub PksN 1 KS11 AAala	Clade_1	amino acids
+bacillaene Bamy BaeN 1 KS10 AAala	Clade_1	amino acids 
+bacillaene Bamy BaeJ 1 KS1 Agly	Clade_1	amino acids
+bacillaene Bsub PksJ 1 KS1 AAgly	Clade_1	amino acids 
+calyculin CalA KS1 KS0AAser	Clade_1	amino acids
+pederin PedF 2 KS5 AAgly	Clade_1	amino acids
+diaphorin DipT 2 KS5 AAgly	Clade_1	amino acids
+nosperin NspC 2 KS5 AAgly	Clade_1	amino acids
+onnamide OnnI 2 KS5 AAgly	Clade_1	amino acids
+
+griseoviridin SgvE2 1 KS3 AAgly	Clade_2	amino acids 
+virginiamycin VirA 3 KS3 AAgly	Clade_2	amino acids
+oxazolomycin OzmQ 1 KS1 AAgly	Clade_2	amino acids
+oxazolomycin OzmN 1 KS2 AAoxa	Clade_2	amino acids
+malleilactone burkholderic acid BurA 1 KS2 unusualStarter	Clade_2	amino acids
+
+oxazolomycin OzmH 4 KS8 0eDB	Clade_3	bimod_bOH
+difficidin DifG 2 KS5 0Hbimod bOH	Clade_3	bimod_bOH
+misakinolide MisE 4 KS14 0b L OH	Clade_3	bimod_bOH
+tolytoxin TtoE 8 KS14 0bimod b D OH	Clade_3	bimod_bOH
+luminaolid LumD 4 KS14 0bimod b D OH	Clade_3	bimod_bOH
+thailandamide TaiK 2 KS8 0bOH	Clade_3	bimod_bOH
+kalimantacin batuminBat2 6 KS7 0bimod bOH	Clade_3	bimod_bOH
+sorangicin SorH 3 KS22 0bimod bOH	Clade_3	bimod_bOH
+bongkrekic acid BonA 6 KS6 0bimod bOH	Clade_3	bimod_bOH
+sorangicin SorA 7 KS7 0bimod bOH	Clade_3	bimod_bOH
+bacillaene Bsub PksL 4 KS7 Obimod bOH	Clade_3	bimod_bOH
+bacillaene Bamy BaeL 4 KS7 0Hbimod bOH	Clade_3	bimod_bOH
+bacillaene Bsub PksJ 3 KS3 OHbimod OH	Clade_3	bimod_bOH
+bacillaene Bamy BaeJ 3 KS3 0Hbimod bOH	Clade_3	bimod_bOH
+difficidin DifJ 2 KS12 obimod bOH	Clade_3	bimod_bOH
+
+leinamycin LnmI 3 KS3 zDB	Clade_4	bimod_bOH
+tartrolon TrtD KS3 3 bimod bOH	Clade_4	bimod_bOH 
+kirromycin KirAI 2 KS2 zcrotonyl	Clade_4	bimod_bOH
+ 
+kirromycin KirAIV 5 KS11 b D OH	Clade_4	bimod_bOH
+etnangien EtnG 4 KS14 0bOH	Clade_4	bimod_bOH
+difficidin DifI 4 KS10 bimod bOH	Clade_4	bimod_bOH
+elansolid Csan ElaO 2 KS7 bimod b D OH	Clade_4	bimod_bOH
+elansolid Cpin ElsN 2 KS7 bimod b D OH	Clade_4	bimod_bOH
+basiliskamides P615 BasE 3 KS3 bOH	Clade_4	bimod_bOH
+macrolactin MlnE 2 KS8 bimod bOH	Clade_4	bimod_bOH
+macrolactin MlnG 1 KS11 bimod bOH	Clade_4	bimod_bOH
+chivosazole ChiD 3 KS12 bimod bOH	Clade_4	bimod_bOH
+chivosazole ChiF 2 KS16 bimod bOH	Clade_4	bimod_bOH
+chivosazole ChiC 2 KS5 bimod bOH	Clade_4	bimod_bOH
+ 
+tartrolon TrtE 3 KS6 red	Clade_5	shifted_double_bonds
+rhizoxins RhiE 1 KS1 aMeshDB	Clade_5	shifted_double_bonds 
+nosperin NspC 4 KS7 aMeshDB	Clade_5	shifted_double_bonds 
+onnamide OnnJ 1 KS11 bOH	Clade_5	shifted_double_bonds
+calyculin CalI 1 KS24 shDB	Clade_5	shifted_double_bonds
+
+etnangien EtnD 1 KS1 unusualStarters Succ	Clade_6	unusual_Starter_AMT 
+sorangicin SorA 1 KS1 unusualStarter	Clade_6	unusual_Starter_AMT
+dorrigocin migrastatin MgsE 1 KS1 unusualStarter AMT	Clade_6	unusual_Starter_AMT 
+9 methylstreptimidone SmdI 1 KS1 unusualstarter AMT	Clade_6	unusual_Starter_AMT 
+cycloheximide ChxE 1 KS1 unusualStarter AMT	Clade_6	unusual_Starter_AMT
+
+thailandamide TaiD 1 KS1 aromaticStarter	Clade_104	acetyl/aromatic Starter	
+thiomarinol TmpD 1 KS1 acetylStarter	Clade_104	acetyl/aromatic Starter		
+mupirocin MmpD 1 KS1 acetylStarter	Clade_104	acetyl/aromatic Starter		
+
+kalimantacin batumin Bat1 1 KS1 AcStarter	Clade_8	GNAT_Starter 
+onnamide OnnB 1 KS1 GNATstarter	Clade_8	GNAT_Starter
+nosperin NspA 1 KS1 GNATstarter	Clade_8	GNAT_Starter
+pederin PedI 1 KS1 GNATStarter	Clade_8	GNAT_Starter
+diaphorin DipP 1 KS1 GNATstarter	Clade_8	GNAT_Starter 
+psymberin PsyA 1 KS1 GNATStarter	Clade_8	GNAT_Starter
+basiliskamides P615 14890 KS5 eDB	Clade_8	GNAT_Starter 
+bryostatin BryX 1 KS14 GNATstarter	Clade_8	GNAT_Starter
+Calyculin CalE2 KS11 aketo	Clade_8	GNAT_Starter
+
+griseoviridin SgvE1 1 KS1 acetylStarter	Clade_7	Starter 
+virginiamycin VirA 1 KS1 unusualstarter	Clade_7	Starter
+kirromycin KirAI 1 KS1 AcStarter	Clade_7	Starter
+
+albicidin AlbI 1 KS1 aromaticStarter AL	Clade_10	aromatic_Starter
+elansolid Cpin ElsI 1 KS1 aromaticstarter	Clade_10	aromatic_Starter 
+elansolid Csan ElaJ 1 KS1 aromaticstarter	Clade_10	aromatic_Starter
+
+oocydin Ddad OocL 1 KS3 rearrangement	Clade_11	oxygen_insertion
+oocydin Smar OocL 1 KS3 rearrangement	Clade_11	oxygen_insertion
+pederin PedH 1 KS10 rearrangement	Clade_11	oxygen_insertion 
+diaphorin DipO 1 KS10 rearrangement	Clade_11	oxygen_insertion
+
+sorangicin SorB 4 KS11 red	Clade_12	reduced/shifted_double_bonds							
+sorangicin SorA 2 KS2 red	Clade_12	reduced/shifted_double_bonds
+bacillaene Bamy BaeJ 2 KS2 red	Clade_12	reduced/shifted_double_bonds 
+bacillaene Bsub PksJ 2 KS2 red	Clade_12	reduced/shifted_double_bonds
+difficidin DifF 3 KS3 red	Clade_12	reduced/shifted_double_bonds 
+difficidin DifI 3 KS9 red	Clade_12	reduced/shifted_double_bonds
+bacillaene Bamy BaeN 2 KS11 shDB	Clade_12	reduced/shifted_double_bonds 
+bacillaene Bsub PksN 2 KS12 shDB	Clade_12	reduced/shifted_double_bonds 
+bacillaene Bsub PksN 3 KS13 shDB	Clade_12	reduced/shifted_double_bonds 
+bacillaene Bamy BaeN 3 KS12 shDB	Clade_12	reduced/shifted_double_bonds
+calyculin CalE 3 KS12 a D Meb L OH	Clade_12	reduced/shifted_double_bonds 
+pederin PedH 2 KS11 red	Clade_12	reduced/shifted_double_bonds	
+diaphorin DipO 2 KS11 DB	Clade_12	reduced/shifted_double_bonds 
+calyculin CalA 2 KS2 AAser	Clade_12	reduced/shifted_double_bonds 
+phormidolide phmE 3 KS3 b D OH	Clade_12	reduced/shifted_double_bonds
+oocydin Smar OocR 2 KS12 shDB	Clade_12	reduced/shifted_double_bonds
+oocydin Ddad OocR 2 KS12 shDB	Clade_12	reduced/shifted_double_bonds 
+oocydin Smar OocN 5 KS9 red	Clade_12	reduced/shifted_double_bonds 
+oocydin Ddad OocN 5 KS9 red	Clade_12	reduced/shifted_double_bonds
+dorrigocin migrastatin MgsF 6 KS9 eDB	Clade_12	reduced/shifted_double_bonds 
+dorrigocin migrastatin MgsG 1 KS10 red	Clade_12	reduced/shifted_double_bonds 
+myxovirescin Ta1 5 KS5 red	Clade_12	reduced/shifted_double_bonds 
+myxovirescin TaO 3 KS10 bketo	Clade_12	reduced/shifted_double_bonds 
+rhizoxins RhiD 2 KS10 shD	Clade_12	reduced/shifted_double_bonds
+myxovirescin TaO 4 KS11 red	Clade_12	reduced/shifted_double_bonds 
+kalimantacin batumin Bat3 2 KS9 eDB	Clade_12	reduced/shifted_double_bonds 
+bongkrekic acid BonB 2 KS8 red	Clade_12	reduced/shifted_double_bonds
+myxovirescin TaO 2 KS9 red	Clade_12	reduced/shifted_double_bonds
+thiomarinol TmpB 2 KS9 0rearrangement	Clade_12	reduced/shifted_double_bonds
+etnangien EtnG 1 KS11 red	Clade_12	reduced/shifted_double_bonds
+
+myxopyronin MxnI 1 KS1 unusualstarter	Clade_19	methoxycarbonyl_Starter
+corallopyronin CorI 1 KS1 unusualStarter	Clade_19	methoxycarbonyl_Starter
+ 
+kirromycin KirAIV 3 KS9 aMebketo	Clade_22	aMe_bketo/bOH 							
+kirromycin KirAII 2 KS4 diMb L OH	Clade_22	aMe_bketo/bOH 
+kirromycin KirAII 3 KS5 b D OH	Clade_22	aMe_bketo/bOH  
+
+onnamide OnnI 5 KS8 pyran	Clade_23	pyran/furan 
+diaphorin DipT 5 KS8 pyran	Clade_23	pyran/furan
+pederin PedF 5 KS8 pyran	Clade_23	pyran/furan 
+misakinolide MisF 2 KS16 pyran	Clade_23	pyran/furan 
+tolytoxin TtoF 2 KS16 pyran	Clade_23	pyran/furan 
+luminaolid LumE 2 KS16 pyran	Clade_23	pyran/furan
+thailanstatin TstDEF 3 KS6 pyran	Clade_23	pyran/furan
+FR901464 Fr9F 3 KS6 pyran	Clade_23	pyran/furan
+phormidolide phmH 4 KS12 furan	Clade_23	pyran/furan 
+sorangicin SorB 2 KS9 pyran	Clade_23	pyran/furan
+sorangicin SorE 2 KS16 pyran	Clade_23	pyran/furan 
+sorangicin SorH 1 KS20 pyrane	Clade_23	pyran/furan 
+bryostatin BryC 2 KS9 pyran	Clade_23	pyran/furan 
+oocydin Smar OocN 4 KS8 furan	Clade_23	pyran/furan 
+oocydin Ddad OocN 4 KS8 furan	Clade_23	pyran/furan
+psymberin PsyD 5 KS7 pyran	Clade_23	pyran/furan
+ 
+macrolactin MlnB 3 KS3 red	Clade_26	reduced
+corallopyronin CorK 3 KS9 red	Clade_26	reduced
+myxopyronin MxnK 3 KS9 red	Clade_26	reduced 
+corallopyronin CorL 2 KS11 red	Clade_26	reduced
+
+myxopyronin MxnJ 3 KS6 reda L Me	Clade_105	reduced/shifted double_bonds	
+corallopyronin CorJ 3 KS6 a D Me	 Clade_105	reduced/shifted double_bonds
+luminaolid LumA 2 KS2 a D MeshDB	Clade_105	reduced/shifted double_bonds 
+tolytoxin TtoC 2 KS2 a D MeshDB	Clade_105	reduced/shifted double_bonds
+leinamycin LnmJ 4 KS7 red	Clade_105	reduced/shifted double_bonds
+
+anthracimycin AtcD 3 KS3 eDB	 Clade_107	eDB
+chlorotonil CtoC 3 KS3 eDB	Clade_107	eDB
+ 
+misakinolide MisC 2 KS2 b D OH	Clade_29	b_OH/keto
+macrolactin MlnD 2 KS6 b D OH	Clade_29	b_OH/keto 
+legioliulin LglD 3 KS3 bketo	Clade_29	b_OH/keto 
+kirromycin KirAIV 4 KS10 b L OH	Clade_29	b_OH/keto
+anthracimycin AtcF 3 KS10 bketo	Clade_29	b_OH/keto 
+chlorotonil CtoE 2 KS10 bketo	Clade_29	b_OH/keto 
+chivosazole ChiC 5 KS8 b L OH	Clade_29	b_OH/keto
+
+oxazolomycin OzmH 2 KS6 AAgly	Clade_30	glycine 
+rhizopodin RizB 1 KS1 AAgly	Clade_30	glycine
+tolytoxin TtoC 1 KS1 AAgly	Clade_30	glycine
+luminaolid LumA 1 KS1 AAgly	Clade_30	glycine
+methoxycarbonyl myxopyronin MxnI 2 KS2 AAgly	Clade_30	glycine	
+corallopyronin CorI 2 KS2 AAGly	Clade_30	glycine
+
+corallopyronin CorI 3 KS3 0bimod eDB	Clade_31	eDB
+myxopyronin MxnI 3 KS3 biMod eDB	Clade_31	eDB
+rhizopodin RizB 2 KS2 eDB	Clade_31	eDB
+ 
+thailandamide TaiD 4 KS4 0reda D Me	Clade_33	non_elongating 
+rhizoxins RhiA 1 KS1 0GNATStarter	Clade_33	non_elongating 
+bacillaene Bsub PksR 2 KS15 OshDBaMe	Clade_33	non_elongating
+bacillaene Bamy BaeR 2 KS14 0shDBMe	Clade_33	non_elongating 
+calyculin CalH 1 KS25 bMeDB	Clade_33	non_elongating
+calyculin CalB 4 KS6 0reda L Me	Clade_33	non_elongating
+oocydin Ddad OocN 6 KS10 0bketo	Clade_33	non_elongating 
+oocydin Smar OocN 6 KS10 0bketo	Clade_33	non_elongating
+
+rhizopodin RizE 3 KS19 0b L OH	Clade_34	non_elongating_hemiacetal/b_OH 								
+oocydin Ddad OocR 1 KS11 obimod bOH	Clade_34	non_elongating_hemiacetal/b_OH	
+oocydin Smar OocR 1 KS11 0bimod bOH	Clade_34	non_elongating_hemiacetal/b_OH
+myxovirescin Ta1 3 KS3 0b L OH	Clade_34	non_elongating_hemiacetal/b_OH
+diaphorin DipT 1 KS4 0acetal	Clade_34	non_elongating_hemiacetal/b_OH
+pederin PedF 1 KS4 0hacetal	Clade_34	non_elongating_hemiacetal/b_OH	 
+onnamide OnnI 1 KS4 0hacetale	Clade_34	non_elongating_hemiacetal/b_OH	 
+nosperin NspC 1 KS4 0hacetal	Clade_34	non_elongating_hemiacetal/b_OH	 
+psymberin PsyD 1 KS3 bimod 0b L OH	Clade_34	non_elongating_hemiacetal/b_OH 
+calyculin CalB 1 KS3 KS0 b L OH	Clade_34	non_elongating_hemiacetal/b_OH
+phormidolide phmH 1 KS9 0aMe D OH	Clade_34	non_elongating_hemiacetal/b_OH	
+oocydin Ddad OocN 1 KS5 0a D OHb L OH 	Clade_34	non_elongating_hemiacetal/b_OH
+oocydin Smar OocN 1 KS5 0a D OHb L OH	Clade_34	non_elongating_hemiacetal/b_OH
+calyculin CalF 1 KS16 0 b L OH a L Meb L OH	Clade_34	non_elongating_hemiacetal/b_OH 
+thiomarinol TmpA 1 KS5 0b D OH	Clade_34	non_elongating_hemiacetal/b_OH
+mupirocin MmpA 1 KS5 0b D OH	Clade_34	non_elongating_hemiacetal/b_OH
+
+tartrolon TrtE 2 KS5 0red	Clade_36	non_elongating_reduced/bOH
+thailanstatin TstI 1 KS11 0b D OH	Clade_36	non_elongating_reduced/bOH
+FR901464 Fr9I 1 KS11 0b D OH	Clade_36	non_elongating_reduced/bOH
+
+tartrolon TrtF 3 KS11 reda D Me	Clade_38	mainly reduced
+tartrolon TrtD KS22 red	Clade_38	mainly reduced
+tartrolon TrtE 4 KS7 b L OH	Clade_38	mainly reduced	
+
+rhizoxins RhiF 1 KS15 vinylogous	Clade_39	vinylogous_chain_branching
+dorrigocin migrastatin MgsE 3 KS3	Clade_39	vinylogous_chain_branching 
+vinylogous cycloheximide ChxE 3 KS3 vinylogous	Clade_39	vinylogous_chain_branching
+9 methylstreptimidone SmdI 3 KS3 vinylogous	Clade_39	vinylogous_chain_branching
+
+enacyloxin Bamb 5922 1 KS5 b D OH	Clade_98	b_OH/eDB(enacyloxins)
+enacyloxin Bamb 5923 1 KS4 b L OH	Clade_98	b_OH/eDB(enacyloxins) 
+enacyloxin Bamb 5920 1 KS8 eDB	Clade_98	b_OH/eDB(enacyloxins)
+enacyloxin Bamb 5919 1 KS10 bketo	Clade_98	b_OH/eDB(enacyloxins)
+enacyloxin Bamb 5924 2 KS2 eDB	Clade_98	b_OH/eDB(enacyloxins)
+enacyloxin Bamb 5924 3 KS3 b D OH	Clade_98	b_OH/eDB(enacyloxins)
+enacyloxin Bamb 5921 2 KS7 b D OH	Clade_98	b_OH/eDB(enacyloxins)
+
+bongkrekic acid BonA KS1 1 GNATstarter	Clade_40	cis-AT PKS-like
+enacyloxin Bamb 5920 2 KS9 aMeDB	Clade_40	cis-AT PKS-like 
+2qo3 chainA EryKS3 OUTGROUP	Clade_40	cis-AT PKS-like
+2hg4 chainA EryKS5 OUTGROUP	Clade_40	cis-AT PKS-like 
+SIA7248 SiaI 1 KS13 2biMod OH	Clade_40	cis-AT PKS-like
+psymberin PsyD 9 KS11 bketo	Clade_40	cis-AT PKS-like
+ 
+misakinolide MisC 1 KS1 acetylStarter	Clade_41	acetyl_Starter 
+myxopyronin MxnK 1 KS7 starter	Clade_41	acetyl_Starter 
+corallopyronin CorK 1 KS7 acetyl	Clade_41	acetyl_Starter
+macrolactin MlnB 1 KS1 acetylStarter	Clade_41	acetyl_Starter 
+chlorotonil CtoC 1 KS1 acetylStarter	Clade_41	acetyl_Starter
+anthracimycin AtcD 1 KS1 acetylStarter	Clade_41	acetyl_Starter 
+disorazole DszA 1 KS1 acetylStarter	Clade_41	acetyl_Starter
+
+tartrolon TrtE 1 KS4 eDB	Clade_42	DB/DB_Starter
+difficidin DifF 1 KS1 unusualStarters acryloyl	Clade_42	DB/DB_Starter 
+disorazole DszA 2 KS2 eDB	Clade_42	DB/DB_Starter
+myxopyronin MxnK 2 KS8 0red	Clade_42	DB/DB_Starter 
+corallopyronin CorK 2 KS8 eDB	Clade_42	DB/DB_Starter
+
+disorazole DszB 2 KS6 zDB	Clade_43	zDB
+disorazole DszB 1 KS5 zDB	Clade_43	zDB
+oxazolomycin OzmN 3 KS4 zDB	Clade_43	zDB
+ 
+rhizoxins RhiB 2 KS3 AAoxa	Clade_44	oxazole 
+calyculin CalC 2 KS8 AAoxa	Clade_44	oxazole  
+chivosazole ChiD 2 KS11 AAoxz	Clade_44	oxazole 
+rhizopodin RizD 2 KS12 AAoxa	Clade_44	oxazole 
+
+SIA7248 SiaD 1 KS1 unusualStarter lactate	Clade_45	lactate_Starter  
+tartrolon TrtD 1 KS1 unusualStarter lactate	Clade_45	lactate_Starter
+bryostatin BryA 1 KS1 lactateStarter	Clade_45	lactate_Starter
+FR901464 Fr9C 1 KS1 unusualstarter lactate	Clade_45	lactate_Starter 
+thailanstatin TstC 1 KS1 lactateStarter	Clade_45	lactate_Starter
+
+calyculin CalG 2 KS22 aMeDB	Clade_47	aMe_eDB
+sorangicin SorA 4 KS4 aMeeDB	Clade_47	aMe_eDB
+sorangicin SorC 1 KS12 eDB	Clade_47	aMe_eDB
+thailandamide TaiM 3 KS15 aMeeDB	Clade_47	aMe_eDB
+malleilactone burkholderic acid BurF 2 KS2 aMeeDB	Clade_47	aMe_eDB 
+rhizoxins RhiC 1 KS6 aMeeDB	Clade_47	aMe_eDB
+albicidin AlbI 2 KS2 aMeeDB	Clade_47	aMe_eDB 
+FR901464 Fr9F 4 KS7 aMeeDB	Clade_47	aMe_eDB
+thailanstatin TstDEF 4 KS7 aMeeDB	Clade_47	aMe_eDB
+difficidin DifI 1 KS7 aMezDB	Clade_47	aMe_eDB
+elansolid Csan ElaQ 3 KS13 aMeDB	Clade_47	aMe_eDB 
+elansolid Cpin ElsP 3 KS13 aMeDB	Clade_47	aMe_eDB 
+elansolid Cpin ElsI 2 KS2 eDB	Clade_47	aMe_eDB 
+elansolid Csan ElaJ 2 KS2 eDB	Clade_47	aMe_eDB
+bacillaene Bsub PksM 2 KS9 zDBaMe	Clade_47	aMe_eDB 
+bacillaene Bamy BaeM 2 KS9 zDBaMe	Clade_47	aMe_eDB
+rhizoxins RhiB 3 KS4 aMeeDB	Clade_47	aMe_eDB 
+tolytoxin TtoF 4 KS18 aMeeDB	Clade_47	aMe_eDB 
+misakinolide MisF 4 KS18 aMeeDB	Clade_47	aMe_eDB 
+difficidin DifF 2 KS2 aMeeDB	Clade_47	aMe_eDB
+ 
+chivosazole ChiC 4 KS7 eDB	Clade_48	aMe_eDB
+oxazolomycin OzmH 1 KS5 aMezDB	Clade_48	aMe_eDB 
+myxopyronin MxnJ 2 KS5 0reda L Me	Clade_48	aMe_eDB 
+corallopyronin CorJ 2 KS5 0aMe	Clade_48	aMe_eDB
+chivosazole ChiF 1 KS15 aMeeDB	Clade_48	aMe_eDB 
+
+lankacidin LkcC 1 KS2 aMeeDB	Clade_48	aMe_eDB
+leinamycin LnmJ 3 KS6 aMeDB	Clade_48	aMe_eDB 
+myxopyronin MxnK 5 KS11 aMeDB	Clade_48	aMe_eDB 
+corallopyronin CorL 4 KS13 aMeDB	Clade_48	aMe_eDB
+
+chlorotonil CtoC 2 KS2 bOH	Clade_50	b_OH	
+anthracimycin AtcD 2 KS2 bOH	Clade_50	b_OH
+macrolactin MlnB 2 KS2 b D OH	Clade_50	b_OH
+
+misakinolide MisC 3 KS3 0bimod b D OMe	Clade_49	non_elongating_b_OH
+luminaolid LumA 3 KS3 0bimod a D Meb D OH	Clade_49	non_elongating_b_OH
+tolytoxin TtoC 3 KS3 0a D Meb D OH	Clade_49	non_elongating_b_OH
+rhizopodin RizE 1 KS17 obimod b L OH	Clade_49	non_elongating_b_OH 
+rhizopodin RizB 3 KS3 0bimod a D Meb D OH	Clade_49	non_elongating_b_OH
+rhizopodin RizD 3 KS13 0bimod b D OH	Clade_49	non_elongating_b_OH 
+rhizopodin RizB 7 KS7 0bimodb D OH	Clade_49	non_elongating_b_OH
+chivosazole ChiC 6 KS9 0a D Meb D OH	Clade_49	non_elongating_b_OH
+
+tartrolon TrtF 1 KS9 b D OH	Clade_51	b_OH
+griseoviridin SgvE3 2 KS6 b L OH	Clade_51	b_OH 
+virginiamycin VirG 1 KS6 b D OH	Clade_51	b_OH
+
+thailandamide TaiL 3 KS11 b D OH	Clade_52	b_OH/eDB
+dorrigocin migrastatin MgsF 1 KS4 b D OH eDB	Clade_52	b_OH/eDB 
+cycloheximide ChxE 4 KS4 b D OH	Clade_52	b_OH/eDB
+9 methylstreptimidone SmdI 4 KS4 eDB	Clade_52	b_OH/eDB
+FR901464 Fr9GH 2 KS10 exometh	Clade_52	b_OH/eDB	 	 
+thailanstatin TstGH 2 KS9 b D OH	Clade_52	b_OH/eDB
+ 
+
+myxovirescin Ta1 4 KS4 b L OH	Clade_53	mostly_a_OH_b_OH 
+thiomarinol TmpA 2 KS6 a D OHb D OH	Clade_53	mostly_a_OH_b_OH
+mupirocin MmpA 2 KS6 a D OHb D OH	Clade_53	mostly_a_OH_b_OH 
+calyculin CalF 2 KS17 a D OHb D OH	Clade_53	mostly_a_OH_b_OH
+
+onnamide OnnB 2 KS2 a L Me D OH	Clade_58	a_LMe_b_DOH 
+nosperin NspA 2 KS2 a L Meb D OH	Clade_58	a_LMe_b_DOH	
+diaphorin DipP 2 KS2 a L Meb D OH	Clade_58	a_LMe_b_DOH	 
+pederin PedI 2 KS2 a L Meb D OH	Clade_58	a_LMe_b_DOH	
+
+psymberin PsyD 3 KS5 b D OH	Clade_59	b_DOH	
+onnamide OnnI 3 KS6 b D OH	Clade_59	b_DOH	 
+pederin PedF 3 KS6 b D OH	Clade_59	b_DOH	
+diaphorin DipT 3 KS6 b D OH	Clade_59	b_DOH	
+ 
+bryostatin BryD 2 KS13 0b D OH	Clade_60	
+
+misakinolide MisF 3 KS17 b D OH	Clade_59	b_DOH	 
+tolytoxin TtoF 3 KS17 b D OH	Clade_59	b_DOH	
+luminaolid LumE 3 KS17 b D OH	Clade_59	b_DOH	 
+misakinolide MisE 3 KS13 b D OH		Clade_59	b_DOH 
+tolytoxin TtoE 7 KS13 b D OH	Clade_59	b_DOH	 
+luminaolid LumD 3 KS13 b D OH	Clade_59	b_DOH	
+
+FR901464 Fr9C 2 KS2 0bOH	Clade_60	non_elongating_b_OH
+thailanstatin TstC 2 KS2 0bOH	Clade_60	non_elongating_b_OH 
+nosperin NspC 5 KS5 aMebOH	Clade_60	non_elongating_b_OH 
+bryostatin BryC 4 KS11 0b D OH	Clade_60	non_elongating_b_OH 
+luminaolid LumD 1 KS11 0bimod b D OH	Clade_60	non_elongating_b_OH 
+misakinolide MisE 1 KS11 0b D OH	Clade_60	non_elongating_b_OH
+tolytoxin TtoE 5 KS11 0b D OH	Clade_60	non_elongating_b_OH 
+calyculin CalE 5 KS14 0b L OH	Clade_60	non_elongating_b_OH
+calyculin CalF 3 KS18 0b D OH	Clade_60	non_elongating_b_OH 
+thailandamide TaiN 1 KS16 0a D Meb D OH	Clade_60	non_elongating_b_OH 
+oxazolomycin OzmJ 2 KS11 0a L OMebketo	Clade_60	non_elongating_b_OH
+
+rhizoxins RhiE 3 KS14 0eDB	Clade_61	non_elongating_DB_before_branching
+dorrigocin migrastatin MgsE 2 KS2 0zDB	Clade_61	non_elongating_DB_before_branching 
+cycloheximide ChxE 2 KS2 0zDB	Clade_61	nnon_elongating_DB_before_branching
+9 methylstreptimidone SmdI 2 KS2 ozDB	Clade_61	non_elongating_DB_before_branching
+
+rhizoxins RhiB 4 KS5 eDB	Clade_62	eDB
+bryostatin BryB 3 KS6 eDB	Clade_62	eDB 
+bryostatin BryX 2 KS15 0	Clade_62	eDB
+calyculin CalC 3 KS9 eDB	Clade_62	eDB 
+calyculin CalG 4 KS24 eDB	Clade_62	eDB 
+onnamide OnnJ 2 KS12 bimod eDB	Clade_62	eDB
+phormidolide phmI 4 KS16 eDB	Clade_62	eDB 
+pederin PedH 3 KS12 bimod bOH	Clade_62	eDB
+FR901464 Fr9GH 1 KS8 eDB	Clade_62	eDB
+thailanstatin TstGH 1 KS8 eDB	Clade_62	eDB 
+difficidin DifK 1 KS13 eDB	Clade_62	eDB
+
+thailandamide TaiE 2 KS6 eDB	Clade_57	eDB
+thailandamide TaiD 3 KS3 eDB	Clade_63	mainly_eDB
+SIA7248 SiaF 2 KS5 b D OH	Clade_57	eDB
+thiomarinol TmpD 3 KS3 eDB	Clade_63	mainly_eDB	
+mupirocin MmpD 3 KS3 eDB	Clade_63	mainly_eDB	 
+thailandamide TaiM 2 KS14 eDB	Clade_63	mainly_eDB
+dorrigocin migrastatin MgsF 3 KS6 aMeeDB	Clade_63	mainly_eDB	 
+thiomarinol TmpB 1 KS8 eDBbMe	Clade_63	mainly_eDB	
+mupirocin MmpB 1 KS8 esterification	Clade_63	mainly_eDB	
+mupirocin MmpA 3 KS7 b D OH	Clade_63	mainly_eDB	 
+thiomarinol TmpA 3 KS7 bOH	Clade_63	mainly_eDB	
+elansolid Cpin ElsJ 3 KS5 eDB	Clade_63	mainly_eDB	 
+elansolid Csan ElaK 3 KS5 eDB	Clade_63	mainly_eDB	
+elansolid Cpin ElsO 3 KS10 zDB	Clade_63	mainly_eDB	 
+elansolid Csan ElaP 3 KS10 zDB	Clade_63	mainly_eDB	
+ 
+bongkrekic acid BonD 2 KS11 eDB	Clade_57	eDB 
+bongkrekic acid BonA 5 KS5 DB	Clade_57	eDB
+bongkrekic acid BonB 1 KS7 DB	Clade_57	eDB 
+bongkrekic acid BonC 1 KS9 eDB	Clade_57	eDB
+ 
+sorangicin SorH 2 KS21 eDB	Clade_64	eDB
+sorangicin SorB 3 KS10 eDB	Clade_64	eDB 
+sorangicin SorE 3 KS17 eDB	Clade_64	eDB 
+kalimantacin batumin Bat2 5 KS6 eD	Clade_64	eDB 
+etnangien EtnE 2 KS6 eDB	Clade_64	eDB 
+etnangien EtnE 1 KS5 eDB	Clade_64	eDB
+etnangien EtnH 2 KS16 eDB	Clade_64	eDB 
+sorangicin SorI 1 KS23 zDB	Clade_64	eDB
+etnangien EtnD 4 KS4 eDB	Clade_64	eDB 
+SIA7248 SiaG 3 KS10 eDB	Clade_64	eDB
+bacillaene Bamy BaeL 2 KS5	Clade_64	eDB 
+bacillaene Bsub PksL 2 KS5 eD	Clade_64	eDB
+myxovirescin Ta1 7 KS7 eDB	Clade_64	eDB 
+thailandamide TaiL 4 KS12 eDB	Clade_64	eDB
+
+difficidin DifJ 1 KS11 zDB zDB	Clade_65	double_bonds
+elansolid Cpin ElsO 1 KS8 eDB	Clade_65	double_bonds 
+elansolid Csan ElaP 1 KS8 eDB	Clade_65	double_bonds
+macrolactin MlnG	Clade_65	double_bonds
+macrolactin MlnE 1 KS7 b D OH	Clade_65	double_bonds
+macrolactin MlnD 1 KS5 eDB	Clade_65	double_bonds
+luminaolid LumB 2 KS5 bketo	Clade_65	double_bonds 
+tolytoxin TtoD 2 KS5 bketo	Clade_65	double_bonds 
+macrolactin MlnC 1 KS4 eDB	Clade_65	double_bonds
+macrolactin MlnF 1 KS9 zD zDB	Clade_65	double_bonds 
+
+legioliulin LglD 2 KS2 eDB	Clade_68	double_bonds	
+chivosazole ChiE 1 KS13 zDB eDB	Clade_68	double_bonds 
+chlorotonil CtoE 1 KS9 DB DA	Clade_68	double_bonds
+
+rhizopodin RizB 5 KS5 bketo	Clade_67	various 
+SIA7248 SiaG 2 KS9 eDB	Clade_67	various
+rhizopodin RizD 5 KS15 bimod bOH	Clade_67	various
+
+virginiamycin VirA 4 KS4 eDB	Clade_66	double_bonds 
+griseoviridin SgvE2 2 KS4 eDB	Clade_66	double_bonds
+anthracimycin AtcE KS5 eDB	Clade_66	double_bonds 
+oxazolomycin OzmN 2 KS3 eDB	Clade_66	double_bonds
+kirromycin KirAIV 2 KS8 aMeeDB	Clade_66	double_bonds 
+kirromycin KirAIV 1 KS7 eDB	Clade_66	double_bonds
+anthracimycin AtcE KS6 eDB	Clade_66	double_bonds
+oxazolomycin OzmH 3 KS7 eDB	Clade_66	double_bonds 
+lankacidin LkcF 1 KS3 b D OH	Clade_66	double_bonds
+anthracimycin AtcF 2 KS9 eDB DA	Clade_66	double_bonds 
+leinamycin LnmJ 1 KS4 eDB	Clade_66	double_bonds 
+kirromycin KirAV 1 KS12 eDB	Clade_66	double_bonds
+kirromycin KirAII 1 KS3 eDB	Clade_66	double_bonds 
+chlorotonil CtoD 2 KS6 eDB	Clade_66	double_bonds
+disorazole DszB 3 KS7 eDB	Clade_66	double_bonds 
+chlorotonil CtoD 1 KS5 eDB	Clade_66	double_bonds
+chivosazole ChiF 3 KS17 eDB zDB	Clade_66	double_bonds 
+chivosazole ChiC 3 KS6 eDB zDB	Clade_66	double_bonds
+
+SIA7248 SiaH KS11 eDB	Clade_70	eDB	
+rhizopodin RizD 6 KS16 eDB	Clade_70	eDB	
+
+oocydin Smar OocS 2 KS14 aMezDB	Clade_69	zDB
+oocydin Ddad OocS 2 KS14 aMezDB	Clade_69	zDB 
+tolytoxin TtoF 1 KS15 zDB	Clade_69	zDB
+luminaolid LumE 1 KS15 zDB	Clade_69	zDB 
+misakinolide MisF 1 KS15 zDB	Clade_69	zDB
+bacillaene Bamy BaeM 1 KS8 zDB	Clade_69	zDB 
+bacillaene Bsub PksM 1 KS8 zDB	Clade_69	zDB 
+bacillaene Bamy BaeL 1 KS4 zD	Clade_69	zDB 
+bacillaene Bsub PksL 1 KS4 zD	Clade_69	zDB 
+difficidin DifH 1 KS6 zDB	Clade_69	zDB
+oxazolomycin OzmH 5 KS9 eDB	Clade_69	zDB
+thailandamide TaiL 1 KS9 eDB	Clade_69	zDB
+kalimantacin batumin Bat3 1 KS8 eDB	Clade_69	zDB
+ 
+thailandamide TaiL 2 KS10 bketo	Clade_71	b_keto 
+psymberin PsyD 8 KS10 aMebketo	Clade_71	b_keto
+legioliulin LglD 4 KS4 bketo	Clade_71	b_keto 
+SIA7248 SiaH KS12 bketo	Clade_71	b_keto
+
+nosperin NspC 3 KS6 0biomod aMeeDB	Clade_72	non_elongating_aMeeDB 
+bacillaene Bamy BaeR 1 KS13 0aMeDB	Clade_72	non_elongating_aMeeDB
+bacillaene Bsub PksR 1 KS14 OaMeDB	Clade_72	non_elongating_aMeeDB 
+calyculin CalH 3 KS27 eDB	Clade_72	non_elongating_aMeeDB
+onnamide OnnI 7 KS10 0red	Clade_72	non_elongating_aMeeDB
+rhizoxins RhiD 3 KS11 0bimod aMeeDB	Clade_72	non_elongating_aMeeDB
+ 
+rhizopodin RizC 2 KS10 b D OH	Clade_73	non_elongating 
+disorazole DszC 1 KS2 0AAoxz	Clade_73	non_elongating 
+chivosazole ChiF 4 KS18 0zDB	Clade_73	non_elongating
+
+enacyloxin Bamb 5919 2 KS11 0eDB	Clade_74	non_elongating_DB 
+pederin PedH 4 KS13 0eDB	Clade_74	non_elongating_DB
+mupirocin MmpE 1 KS9 cyclization	Clade_74	non_elongating_DB 
+rhizoxins RhiF 2 KS16 0eDB	Clade_74	non_elongating_DB
+tolytoxin TtoF 5 KS19 0eDB	Clade_74	non_elongating_DB 
+luminaolid LumE 4 KS18 0b D OH	Clade_74	non_elongating_DB 
+misakinolide MisF 5 KS19 0eDB	Clade_74	non_elongating_DB 
+elansolid Csan ElaR 1 KS14 0eDB	Clade_74	non_elongating_DB
+elansolid ElsQ 1 KS14 0eDB	Clade_74	non_elongating_DB
+
+sorangicin SorI 2 KS24 0zDB	Clade_55	non_elongating_DB 
+bongkrekic acid BonD 3 KS12 0vinylbranch	Clade_55	non_elongating_DB
+sorangicin SorB 1 KS8 0zDB	Clade_55	non_elongating_DB
+
+calyculin CalC 1 KS7 KS0oxa	Clade_75	non_elongating_oxazole 
+rhizoxins RhiB 1 KS2 0AAoxa	Clade_75	non_elongating_oxazole
+chivosazole ChiD 1 KS10 0AAoxz	Clade_75	non_elongating_oxazole 
+rhizopodin RizD 1 KS11 0AAoxa	Clade_75	non_elongating_oxazole 
+disorazole DszC 1 KS9 0AAoxz	Clade_75	non_elongating_oxazole
+virginiamycin VirH 1 KS7 0AAoxz	Clade_75	non_elongating_oxazole 
+griseoviridin SgvE4 1 KS7 b D OH	Clade_75	non_elongating_oxazole
+leinamycin LnmI 1 KS1 0AAoxz	Clade_75	non_elongating_oxazole
+
+phormidolide phmH 2 KS10 0aOHaMeb D OH	Clade_77	aOH_bOH 
+oocydin Ddad OocN 2 KS6 a D OHb L OH	Clade_77	aOH_bOH 
+oocydin Smar OocN 2 KS6 a D OHb L OH	Clade_77	aOH_bOH 
+
+elansolid Csan ElaQ 2 KS12 b L OH	Clade_78	b_L_OH 
+elansolid Cpin ElsP 2 KS12 b L OH	Clade_78	b_L_OH
+
+kalimantacin batumin Bat2 2 KS3 bOH	Clade_56	b_L_OH 
+sorangicin SorA 5 KS5 a L OHb L OH	Clade_56	b_L_OH	 
+sorangicin SorD 2 KS14 b L OH	Clade_56	b_L_OH 
+difficidin DifI 2 KS8 bOH	Clade_56	b_L_OH
+thailandamide TaiD 2 KS2 b L OH	Clade_56	b_L_OH 
+oocydin Smar OocN 3 KS7 b L OH	Clade_56	b_L_OH
+oocydin Ddad OocN 3 KS7 b L OH	Clade_56	b_L_OH
+phormidolide phmH 3 KS11 b L OH	Clade_56	b_L_OH	 
+rhizoxins RhiE 2 KS13 b L OH	Clade_56	b_L_OH
+bryostatin BryB 4 KS7 b L OH	 Clade_56	b_L_OH
+bryostatin BryD 1 KS12 b L OH	 Clade_56	b_L_OH
+bryostatin BryA 2 KS2 b L OH	Clade_56	b_L_OH
+diaphorin DipT 6 KS9 b L OH	 Clade_56	b_L_OH
+pederin PedF 6 KS9 b L OH	Clade_56	b_L_OH
+onnamide OnnI 6 KS9 b L OH	Clade_56	b_L_OH
+misakinolide MisD 3 KS9 b L OH	Clade_56	b_L_OH
+tolytoxin TtoE 3 KS9 b L OH	 Clade_56	b_L_OH
+luminaolid LumC 3 KS9 b L OH	Clade_56	b_L_OH
+psymberin PsyD 7 KS9 b L OH	 Clade_56	b_L_OH
+bongkrekic acid BonA 4 KS4 b L OH	Clade_56	b_L_OH
+SIA7248 SiaE 1 KS2 b D OH	Clade_56	b_L_OH
+SIA7248 SiaE 2 KS3 b L OH	 Clade_56	b_L_OH
+SIA7248 SiaF 1 KS4 b D OH	Clade_56	b_L_OH
+SIA7248 SiaF 3 KS6 b D OH	 	Clade_56	b_L_OH
+SIA7248 SiaF 4 KS7 b D OH	Clade_56	b_L_OH
+
+oocydin Ddad OocS 3 KS15 0b L OH	Clade_79	non_elongating_b_L_OH 
+oocydin Smar OocS 3 KS15 0b L OH	Clade_79	non_elongating_b_L_OH
+elansolid Cpin ElsO 2 KS9 0bimod bOH	Clade_79	non_elongating_b_L_OH 
+elansolid Csan ElaP 2 KS9 0bimod bOH	Clade_79	non_elongating_b_L_OH
+bacillaene Bsub PksM 3 KS10 bOH	Clade_79	non_elongating_b_L_OH 
+etnangien EtnG 2 KS12 0b L OH	Clade_79	non_elongating_b_L_OH 
+etnangien EtnI 4 KS20 0b L OH	Clade_79	non_elongating_b_L_OH
+etnangien EtnF 3 KS10 b L OH	Clade_79	non_elongating_b_L_OH
+
+luminaolid LumC 1 KS7 a L Meb L OMe a L Meb L OH	Clade_100	aMe_b_L_OH 
+misakinolide MisD 2  KS9 lH	Clade_100	aMe_b_L_OH 
+tolytoxin TtoE 1 KS7 a D Meb D OH	Clade_100	aMe_b_L_OH 
+
+psymberin PsyD 4 KS6 adiMeb D OH	Clade_80	aMe_b_L_OH 
+phormidolide phmF 3 KS6 adiMeb D OH	Clade_80	aMe_b_L_OH 
+rhizoxins RhiD 1 K9 aMeb D OH	Clade_80	aMe_b_L_OH 
+rhizoxins RhiC 2 KS7 a D Meb L OH	Clade_80	aMe_b_L_OH  
+calyculin CalF 5 KS20 a L Meb L OH	Clade_80	aMe_b_L_OH  
+calyculin CalG 1 KS21 a L Meb L OH	Clade_80	aMe_b_L_OH 
+tolytoxin TtoE 4 KS10 a L Meb L OH	Clade_80	aMe_b_L_OH  
+luminaolid LumC 4 KS10 a L Meb L OH	Clade_80	aMe_b_L_OH 
+misakinolide MisD 4 KS10 a L Meb L OH	Clade_80	aMe_b_L_OH  
+calyculin CalE 4 KS13 b L OH	Clade_80	aMe_b_L_OH 
+oxazolomycin OzmJ 1 KS10 a L Meb L OH	Clade_80	aMe_b_L_OH  
+psymberin PsyD 6 KS8 a D Meb L OH	Clade_80	aMe_b_L_OH 
+pederin PedF 4 KS7 adiMeb D OH	Clade_80	aMe_b_L_OH  
+diaphorin DipT 4 KS7 adiMebOH	Clade_80	aMe_b_L_OH 
+onnamide OnnI 4 KS7 adiMeb D OH	Clade_80	aMe_b_L_OH  
+oocydin Ddad OocS 1 KS13 aMebOH	Clade_80	aMe_b_L_OH 
+oocydin Smar OocS 1 KS13 aMebOH	Clade_80	aMe_b_L_OH 
+ 
+rhizopodin RizD 4 KS14 b D OMe	Clade_81	b_D_OMe
+rhizopodin RizB 8 KS8 b D OMe	Clade_81	b_D_OMe
+rhizopodin RizE 2 KS18 b L OMe	Clade_81	b_D_OMe
+rhizopodin RizB 4 KS4 a D Meb D OMe	Clade_81	b_D_OMe 
+luminaolid LumB 1 KS4 a D Meb D OMe	Clade_81	b_D_OMe
+tolytoxin TtoD 1 KS4 a D Meb D OMe	Clade_81	b_D_OMe 
+misakinolide MisC 4 KS4 bOMe	Clade_81	b_D_OMe
+
+myxopyronin MxnK 4 KS10 bMeDB	Clade_101	b_Me
+corallopyronin CorL 3 KS12 bMeDB	Clade_101	b_Me
+
+griseoviridin SgvE3 1 KS5 eDB	Clade_102	b_Me 
+virginiamycin VirF 1 KS5 bMeeDB	Clade_102	b_Me
+
+SIA7248 SiaG 1 KS8 bMeDB	Clade_82	b_MeeDB
+thailandamide TaiM 1 KS13 bMeeDB	Clade_82	b_MeeDB
+thailandamide TaiK 1 KS7 bMeDB	Clade_82	b_MeeDB 
+bacillaene Bsub PksL 3 KS6 bMeeDB	Clade_82	b_MeeDB 
+bacillaene Bamy BaeL 3 KS6 bMeeDB	Clade_82	b_MeeDB
+elansolid Cpin ElsN 1 KS6 bMeDB	Clade_82	b_MeeDB 
+elansolid Csan ElaO 1 KS6 bMeDB	Clade_82	b_MeeDB
+oocydin Smar OocL 2 KS4 eDBbMe	Clade_82	b_MeeDB 
+oocydin Ddad OocL 2 KS4 eDBbMe	Clade_82	b_MeeDB
+phormidolide phmF 5 KS8 eDBbMe	Clade_82	b_MeeDB
+phormidolide phmI 1 KS13 eDBbMe	Clade_82	b_MeeDB 
+calyculin CalG 3 KS23 bMeDB	Clade_82	b_MeeDB
+myxovirescin Ta1 6 KS6 eDBbMe	Clade_82	b_MeeDB 
+etnangien EtnE 3 KS3 eDBbMe	Clade_82	b_MeeDB
+bongkrekic acid BonA 2 KS2 bMeDB	Clade_82	b_MeeDB 
+sorangicin SorA 6 KS6 zDB	Clade_82	b_MeeDB
+
+etnangien EtnG 3 KS13 b L OMe	Clade_83	b_OMe 
+sorangicin SorG 2 KS19 b L OH	Clade_83	b_OMe
+calyculin CalF 4 KS19 b D OMe	Clade_83	b_OMe 
+calyculin CalE 7 KS15 b L OH	Clade_83	b_OMe
+tolytoxin TtoE 6 KS12 b D OMe	Clade_83	b_OMe 
+misakinolide MisE 2 KS12 b D OMe	Clade_83	b_OMe 
+luminaolid LumD 2 KS12 b D OMe	Clade_83	b_OMe
+oxazolomycin OzmK 1 KS12 a L OMe	Clade_83	b_OMe
+ 
+chlorotonil CtoC 4 KS4 aMezshDB	Clade_84	aMe_z_shifted_DB
+chlorotonil CtoD 4 aMeshDB	Clade_84	aMe_z_shifted_DB
+
+luminaolid LumC 2 KS8 a D Meb D OH b D OH	Clade_85	aMe_bOH 
+misakinolide MisD 2 KS8 b L OH	Clade_85	aMe_bOH
+tolytoxin TtoE 2 KS8 a D Me D OH	Clade_85	aMe_bOH 
+disorazole DszA 3 KS3 adiMeb L OH	Clade_85	aMe_bOH
+chivosazole ChiC 1 KS4 a D Meb D OH	Clade_85	aMe_bOH
+
+phormidolide phmI 5 KS17 0eDBbMe	Clade_86	non_elongating_DB 
+oocydin Ddad OocS 4 KS16 0	Clade_86	non_elongating_DB
+oocydin Smar OocS 4 KS16 0	Clade_86	non_elongating_DB 
+thailanstatin TstC 3 KS3 0eDB	Clade_86	non_elongating_DB 
+FR901464 Fr9C 3 KS3 0eDB	Clade_86	non_elongating_DB
+
+kalimantacin batumin Bat3 4 KS11 redbMe	Clade_87	exometh/red_bMe 
+kalimantacin batumin Bat2 4 KS5 redbMe	Clade_87	exometh/red_bMe 	
+etnangien EtnD 2 KS2 eDBbMe	Clade_87	exometh/red_bMe
+kalimantacin batumin Bat3 3 KS10 exometh	Clade_87	exometh/red_bMe 
+myxovirescin TaO 1 KS8 redbethyl	Clade_87	exometh/red_bMe
+bryostatin BryB 1 KS4 exoester	Clade_87	exometh/red_bMeh 
+bryostatin BryC 1 KS8 exoester	Clade_87	exometh/red_bMe
+ 
+psymberin PsyA 2 KS2 exometh	Clade_87	exometh/red_bMe
+phormidolide phmI 2 KS14 exometh	Clade_87	exometh/red_bMe 
+oocydin Smar OocJ 2 KS2 exometh	Clade_87	exometh/red_bMe
+oocydin Ddad OocJ 2 KS2 exometh	Clade_87	exometh/red_bMe 
+phormidolide phmE 2 KS2 exometh	Clade_87	exometh/red_bMe
+onnamide OnnB 3 KS3 exometh	Clade_87	exometh/red_bMe
+nosperin NspA 3 KS3 exometh	Clade_87	exometh/red_bMe
+pederin PedI 3 KS3 exometh	Clade_87	exometh/red_bMe 
+diaphorin DipP 3 KS3 exometh	Clade_87	exometh/red_bMe
+FR901464 Fr9GH 3 KS9 b D OH	Clade_87	exometh/red_bMe
+thailanstatin TstGH 3 KS10 exometh	Clade_87	exometh/red_bMe
+ 
+leinamycin LnmJ 2 KS5 bketo	Clade_89	b_keto
+anthracimycin AtcE KS7 redaMe	Clade_89	b_keto
+lankacidin LkcG 1 KS5 aMebketo	Clade_89	b_keto
+ 
+misakinolide MisD 1 KS6 reda L Me	Clade_90	red_a_Me/shifted DB_a_Me
+luminaolid LumB 3 KS6 reda L Me	Clade_90	red_a_Me/shifted DB_a_Me
+tolytoxin TtoD 3 KS6 reda L Me	Clade_90	red_a_Me/shifted DB_a_Me
+rhizopodin RizC 1 KS9 adiMeb L OH	Clade_90	red_a_Me/shifted DB_a_Me 
+rhizopodin RizB 6 KS6 reda L Me	Clade_90	red_a_Me/shifted DB_a_Me
+chlorotonil CtoD 3 KS7 redaMe	Clade_90	red_a_Me/shifted DB_a_Me 
+anthracimycin AtcF 1 KS8 shDB	Clade_90	red_a_Me/shifted DB_a_Me
+anthracimycin AtcD 4 KS4 aMezshDB	Clade_90	red_a_Me/shifted DB_a_Me
+chivosazole ChiB 3 KS3 a L Meb L OH	Clade_90	red_a_Me/shifted DB_a_Me
+
+phormidolide phmE 1 KS1 unusualStarter	Clade_92	unusual_Starter 
+oocydin Ddad OocJ 1 KS1 unusualStarter	Clade_92	unusual_Starter
+oocydin Smar OocJ 1 KS1 unusualStarter	Clade_92	unusual_Starter
+
+chivosazole ChiE 2 KS14 a L Meb L OH	Clade_99	aMe_bOH	
+
+etnangien EtnI 1 KS17 reda L Me	Clade_103	aMe_reduced
+ 
+bongkrekic acid BonA 3 KS3 aMeDB	Clade_93	aMe_red/bOH/bketo 	
+bongkrekic acid BonD 1 KS10 a L Me	Clade_93	aMe_red/bOH/bketo
+FR901464 Fr9F 2 KS5 reda L Me	Clade_93	aMe_red/bOH/bketo 
+thailanstatin TstDEF 2 KS5 reda L Me	Clade_93	aMe_red/bOH/bketo  
+sorangicin SorA 3 KS3 reda D Me	Clade_93	aMe_red/bOH/bketo 
+sorangicin SorD 1 KS13 a L OHb L OH	Clade_93	aMe_red/bOH/bketo 
+sorangicin SorG 1 KS18 a L Mb L OH	Clade_93	aMe_red/bOH/bketo
+myxovirescin TaP 1 KS1 reda D Me	Clade_93	aMe_red/bOH/bketo
+basiliskamides P615 BasE 1 KS2 a L Me red	Clade_93	aMe_red/bOH/bketo 
+basiliskamides P615 BasF 1 KS1 GNATstarter	Clade_93	aMe_red/bOH/bketo
+calyculin CalE 6 KS16 adiMbketo	Clade_93	aMe_red/bOH/bketo 
+calyculin CalB 3 KS5 0reda L Me	Clade_93	aMe_red/bOH/bketo
+sorangicin SorE 1 KS15 a D Mb L OH	Clade_93	aMe_red/bOH/bketo 
+bryostatin BryC 3 KS10 adiMebketo	Clade_93	aMe_red/bOH/bketo
+bryostatin BryB 2 KS5 adiMEbketo	Clade_93	aMe_red/bOH/bketo
+thiomarinol TmpD 2 KS2 a L Meb L OH	Clade_93	aMe_red/bOH/bketo 
+mupirocin MmpD 2 KS2 a L Meb L OH	Clade_93	aMe_red/bOH/bketo
+difficidin DifL 1 KS14 redaMe	Clade_93	aMe_red/bOH/bketo
+elansolid Csan ElaK 1 KS3 adiMeb D OH	Clade_93	aMe_red/bOH/bketo 
+elansolid Cpin ElsJ 1 KS3 adiMeb D OH	Clade_93	aMe_red/bOH/bketo 
+elansolid Csan ElaK 2 KS4 aMe	Clade_93	aMe_red/bOH/bketo 
+elansolid Cpin ElsJ 2 KS4 aMe	Clade_93	aMe_red/bOH/bketo
+dorrigocin migrastatin MgsF 4 KS7 a D Meb L OH	Clade_93	aMe_red/bOH/bketo 	
+thiomarinol TmpD 4 KS4 a D OH	Clade_93	aMe_red/bOH/bketo 
+mupirocin MmpD 4 KS4 a D Me	Clade_93	aMe_red/bOH/bketo
+dorrigocin migrastatin MgsF 5 KS8 b L OH	Clade_93	aMe_red/bOH/bketo  
+dorrigocin migrastatin MgsF 2 KS5 a D MebketodH	Clade_93	aMe_red/bOH/bketo 
+cycloheximide ChxE 5 KS5 a D Mebketo	Clade_93	aMe_red/bOH/bketo 
+9 methylstreptimidone SmdI KS5 5 a D Mebketo	Clade_93	aMe_red/bOH/bketo  
+etnangien EtnF 1 KS8 a D Meb D OH	Clade_93	aMe_red/bOH/bketo 
+
+corallopyronin CorL 1 KS10 bMeDB	Clade_97_bMeDB 
+
+kirromycin KirAIII 4 KS6 AAgly	Clade_121	amino_acids
+legioliulin LglD 1 KS1 aromaticStarter	Clade_125	aromatic starter	
+chivosazole ChiB 2 KS2 b D OH	Clade_124	b_DOH	
+disorazole DszA 4 KS4 b D OH	Clade_122	b_DOH
+misakinolide MisC 5 KS5 L OH or D PY	Clade_123	non-canonical pyran 
+tartrolon TrtE 5 KS8 bketo	Clade_127	beet
+etnangien EtnH 1 KS15 bimod zDB		Clade_119	zDB
+
+leinamycin LnmI 2 KS2 AAoxz	Clade_66	double_bonds
+
+calyculin CalE 1 KS10 KS0ox	Clade_126	a_oxygenation
+lankacidin LkcF 2 KS4 a D Meb L OH	Clade_120	various	
+lankacidin LkcA 1 KS1 AAgly	Clade_120	various	
+tartrolon TrtD KS2 2 red	Clade_128	non_elongating aMe_red
+legioliulin LglE 1 KS5 bOH	Clade_128	b_OH
+myxovirescin Ta1 2 KS2 b L OH	Clade_116	b_LOH
+bryostatin BryA KS3 3 b D OH	Clade_115	b_DOH
+
+phormidolide phmF 2 KS5 b D OH	Clade_117	b_OH
+rhizoxins RhiC 3 KS8 b D OH	Clade_111	b_DOH
+phormidolide phmF 4 KS7 b D OH	Clade_111	b_DOH
+phormidolide phmI 3 KS15 b D OH	Clade_111	b_DOH
+
+phormidolide phmF 3 KS4 a Me b OH	Clade_113	a_Me_b_OH
+etnangien EtnD 3 KS3 b D OH	Clade_113	a_Me_b_OH
+etnangien EtnI 3 KS19 a L Meb D OH	Clade_113	a_Me_b_OH	
+etnangien EtnI 2 KS18 a L Meb D OH	Clade_113	a_Me_b_OH	
+etnangien EtnF 2 KS9 b D OH	Clade_113	a_Me_b_OH
+kalimantacin batumin Bat2 3 KS4 bOH	 Clade_113	a_Me_b_OH
+elansolid Cpin ElsP 1 KS11 a L Meb D OH	Clade_113	a_Me_b_OH
+elansolid Csan ElaQ 1 KS11 a L Meb D OH	Clade_113	a_Me_b_OH
+difficidin DifG 1 KS4 OH	Clade_113	a_Me_b_OH
+basiliskamides P615 BasE 2 KS3 a D Meb D OH	Clade_113	a_Me_b_OH
+
+disorazole DszB 4 KS8 0zDB	Clade_110	non-elongating_zDB
+tartrolon TrtF 2 KS10 0reda D Me	Clade_109	non-elongating_aMe_reduced
+
+bryostatin BryX 3 KS16	Clade_114	unknown
+
+corallopyronin CorJ 1 KS4 shDB	Clade_106	shifted_double_bonds
+myxopyronin MxnJ 1 KS4 shDB	Clade_106	shifted_double_bonds
+
+FR901464 Fr9I 2 KS12 0pyran	Clade_108	non_elongating_pyran/furan
+thailanstatin TstI 2 KS12 0pyran	Clade_108	non_elongating_pyran/furan
+
+griseoviridin SgvE1 2 KS2 b D OH	Clade_112	b_DOH
+virginiamycin VirA 2 KS2 a L Meb D OH	Clade_112	b_DOH
+	 
+
+
+
+
+

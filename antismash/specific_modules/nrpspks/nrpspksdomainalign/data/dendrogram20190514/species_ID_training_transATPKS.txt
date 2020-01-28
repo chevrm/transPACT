@@ -1,0 +1,55 @@
+9-methylstreptimidone|FR878059	Streptomyces himastatinicus ATCC 53653|9-methylstreptimidone|FR878059
+albicidin|AJ586576	Xanthomonas albilineans|albicidin|AJ586576
+bacillaene_Bamy|AJ634060	Bacillus velezensis FZB42|bacillaene_Bamy|AJ634060
+bacillaene_Bsub|AL009126	Bacillus subtilis subsp. subtilis str. 168|bacillaene_Bsub|AL009126
+bacillomycin|AY137375	Bacillus subtilis|bacillomycin|AY137375
+basiliskamides|NZ_AXBT01000013	Brevibacillus laterosporus PE36|basiliskamides|NZ_AXBT01000013
+bongkrekic_acid|JX173632	Burkholderia gladioli|bongkrekic_acid|JX173632
+bryostatin|DQ889941	Candidatus Endobugula sertula|bryostatin|DQ889941
+chivosazole|DQ065771	Sorangium cellulosum|chivosazole|DQ065771
+corallopyronin|HM071004	Corallococcus coralloides|corallopyronin|HM071004
+cycloheximide|JX014302	Streptomyces sp. YIM 56141|cycloheximide|JX014302
+diaphorin|CP003468	Candidatus Profftella armatura|diaphorin|CP003468
+difficidin|AJ634062	Bacillus velezensis FZB42|difficidin|AJ634062
+disorazole|DQ013294	Sorangium cellulosum|disorazole|DQ013294
+dorrigocin_migrastatin|GQ274953	Streptomyces platensis subsp. rosaceus|dorrigocin_migrastatin|GQ274953
+elansolid_Cpin|CP001699	Chitinophaga pinensis DSM 2588|elansolid_Cpin|CP001699
+elansolid_Csan|HQ680975	Chitinophaga sancti|elansolid_Csan|HQ680975
+enacyloxin|CP000442	Burkholderia ambifaria AMMD|enacyloxin|CP000442
+etnangien|NC_010162	Sorangium cellulosum So ce56|etnangien|NC_010162
+FR901464|HM047288	Pseudomonas sp. 2663|FR901464|HM047288
+griseoviridin|JX508597	Streptomyces griseoviridis|griseoviridin|JX508597
+iturin|AB050629	Bacillus subtilis|iturin|AB050629
+kalimantacin_batumin|GU479979	Pseudomonas fluorescens|kalimantacin_batumin|GU479979
+kirromycin|AM746336	Streptomyces collinus Tu 365|kirromycin|AM746336
+lankacidin|NC_004808	Streptomyces rochei|lankacidin|NC_004808
+legioliulin|NZ_CM001371	Fluoribacter dumoffii Tex-KL|legioliulin|NZ_CM001371
+leinamycin|AF484556	Streptomyces atroolivaceus|leinamycin|AF484556
+luminaolid|KR857272	?|luminaolid|KR857272
+macrolactin|AJ634061	Bacillus velezensis FZB42|macrolactin|AJ634061
+malleilactone_burkholderic_acid|NC_007650	Burkholderia thailandensis E264|malleilactone_burkholderic_acid|NC_007650
+misakinolide|KR857273	?|misakinolide|KR857273
+mupirocin|AF318063	Pseudomonas fluorescens|mupirocin|AF318063
+mycosubtilin|AF184956	Bacillus subtilis subsp. spizizenii ATCC 6633|mycosubtilin|AF184956
+myxovirescin|CP000113	Myxococcus xanthus DK 1622|myxovirescin|CP000113
+nosperin|GQ979609	Nostoc sp. 'Peltigera membranacea cyanobiont'|nosperin|GQ979609
+onnamide|?	?|onnamide|?
+onnamide|AY688304	symbiont bacterium of Theonella swinhoei Bacteria.|onnamide|AY688304
+onnamide|AZHW01000002	Candidatus Entotheonella sp. TSY1|onnamide|AZHW01000002
+oocydin_Ddad|CP001654	Dickeya paradisiaca Ech703|oocydin_Ddad|CP001654
+oocydin_Smar|JX315603	Serratia marcescens|oocydin_Smar|JX315603
+oxazolomycin|EF552687	Streptomyces albus|oxazolomycin|EF552687
+pederin|AY328023	symbiont bacterium of Paederus fuscipes Bacteria.|pederin|AY328023
+pederin|AY426537	symbiont bacterium of Paederus fuscipes Bacteria.|pederin|AY426537
+phormidolide|ALVN01000014	Leptolyngbya sp. PCC 7375|phormidolide|ALVN01000014
+psymberin|FJ823461	uncultured bacterium psy1|psymberin|FJ823461
+rhizopodin|FR854394	Stigmatella aurantiaca Sg a15|rhizopodin|FR854394
+rhizoxins|AM411073	Paraburkholderia rhizoxinica|rhizoxins|AM411073
+seudotrienic_acid|AKJU01000004	Pseudomonas sp. GM17|seudotrienic_acid|AKJU01000004
+sorangicin|HM584908	Sorangium cellulosum|sorangicin|HM584908
+tartrolon|CP001614	Teredinibacter turnerae T7901|tartrolon|CP001614
+thailandamide|CP000085	Burkholderia thailandensis E264|thailandamide|CP000085
+thailanstatin|JX307851	Burkholderia thailandensis|thailanstatin|JX307851
+tolytoxin|KR857271	?|tolytoxin|KR857271
+virginiamycin|AB283030	Streptomyces virginiae|virginiamycin|AB283030
+calyculin|AB933566	Uncultured Candidatus Entotheonella sp|calyculin|AB933566

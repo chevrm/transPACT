@@ -1,0 +1,25 @@
+{
+    "files": {
+        "aln_fasta": "647KS_mcformat.afa", 
+        "phylo_model": "phylo_modelHVMi7V.json", 
+        "tree": "RAxML_bestTree.647KS_RAxML.tre", 
+        "tree_stats": "RAxML_info.647KS_RAxML.tre"
+    }, 
+    "rollback": null, 
+    "log": [
+        "Stripped refpkg (removed 0 files)", 
+        "Loaded initial files into empty refpkg"
+    ], 
+    "metadata": {
+        "create_date": "2017-10-20 09:10:25", 
+        "format_version": "1.1", 
+        "locus": "647KS"
+    }, 
+    "rollforward": null, 
+    "md5": {
+        "aln_fasta": "b95064e8b33995003f8b1b2575ee2b2f", 
+        "phylo_model": "79d43e1755b39ead439086829b4e9a4f", 
+        "tree": "c50f799a66cedc64b0245834aae28260", 
+        "tree_stats": "61b989e0c9be183242ecd3c47db19718"
+    }
+}
