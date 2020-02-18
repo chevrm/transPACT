@@ -32,9 +32,11 @@ This creates a new environment called `impact` with all dependencies installed. 
 
 ## Running IMPACT to assign KS substrate specificity 
 
-* `antismash/specific_modules/nrpspks/nrpspksdomainalign/substrate_from_faa.py <single_entry_fasta.faa>`
-  * IMPACT prediction of trans-AT substrate from a protein fasta
-* `antismash/specific_modules/nrpspks/nrpspksdomainalign/data/dendrogram20190829/generate_dendrogram_userweights.py <Jaccard_weight> <DDS_weight> <AdjacencyIndex_weight>`
+* `python impact_substrate_from_faa.py <protein_fasta_of_KS_domains.faa>`
+  * IMPACT prediction of trans-AT substrate from a protein fasta. An example is provided in `example/test.faa`.
+  * Tab separated output (default is to STDOUT; redirect to a file to save results)
+  
+* `python ./data/dendrogram20190829/generate_dendrogram_userweights.py <Jaccard_weight> <DDS_weight> <AdjacencyIndex_weight>`
   * Generate trans-AT pathway dendrogram
   * Suggested weights are Jaccard = 0, DDS = 0.32, Adjacency index = 0.68
   * Not provided in this repo (due to size): all vs all diamond table (filename set at line 576).
