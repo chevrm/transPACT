@@ -6,14 +6,12 @@ import copy
 from ete2 import Tree
 from itertools import islice
 from Bio.Align.Applications import MuscleCommandline
-
 from Bio import SeqIO
 import sys
-sys.path.append(os.path.abspath('../../../..')) ## just for testing
-
+sys.path.append(os.path.abspath('./')) ## assumes running from repo root
 from antismash import utils
-#from antismash.utils import sort_XonY
 import time
+
 
 #UTILITY
 def reformat(input, out_filename):
@@ -35,7 +33,7 @@ def reformat(input, out_filename):
 
     out.close()
 
-
+    
 ###REFACTORED PART BELOW
 def align_ks_domains(reference_alignment, ks_names, ks_seqs):
     """Function that aligns a number of query KS domain sequences to the 
@@ -68,7 +66,7 @@ def align_ks_domains(reference_alignment, ks_names, ks_seqs):
         reformat(input=f_temp_input, out_filename=alignment_file)
 
     #Remove temporary files
-    for f in [in_temp, out_temp]:
+    for f in [in_temp, out_temp, in_temp_aligned]:
         os.remove(f)
 
     return alignment_file
@@ -148,11 +146,7 @@ def get_clade(q, tree_hits, t, funClades):
             clade_assignment = k
     return pref, clade_assignment
 
-def parse_pplacer(pplacer_tree, data_dir, masscutoff, mode):
-    #leaf2cladetbl = data_dir + '/clade_mc.csv'
-    leaf2cladetbl = data_dir + '/dendrogram20190514/Annotation_MC_final.txt'
-    ## Get clade designations
-    funClades, clade2ann = get_leaf2clade(leaf2cladetbl)
+def parse_pplacer(pplacer_tree, data_dir, masscutoff, mode, funClades):
     monoclade = {}
     with open(pplacer_tree) as f:
         for ln in f.read().splitlines():
@@ -510,29 +504,36 @@ def assign_Functional_Clade_per_newDomain(tree, new_leaf_ID, clade_summary,
     return node_newKS, funClade_newKS, conserve1, conserve2, recall_new, precision_new, clade_size_new
 
 
-def run_pipeline_pplacer(bgc_id, out_dir, reference_alignment, alignment_file, data_dir, masscutoff):
+def run_pipeline_pplacer(bgc_id, out_dir, reference_alignment, alignment_file, data_dir, masscutoff, funClades):
     out_filename = os.path.join(out_dir, ''.join((bgc_id, '_funcAnnotate_perKS.txt')))
     out = open(out_filename, 'w')
     
     logging.info("Phylogenetic analysis: predicting substrate specificity of KS")
     pplacer_tree = run_pplacer(reference_alignment, alignment_file, data_dir)
     callmode = 'additive'
-    clade_assignment = parse_pplacer(pplacer_tree, data_dir, masscutoff, callmode)
+    clade_assignment = parse_pplacer(pplacer_tree, data_dir, masscutoff, callmode, funClades)
     for q in clade_assignment:
         out.write('%s: %s\n' % (q, clade_assignment[q]))
     logging.debug('%s: successful for Phylogenetic analysis', bgc_id)
     out.close()
     return clade_assignment
 
+
+ra = './data/dendrogram20190514/649KS_sequences_031218.fasta'
+d = './data'
+leaf2cladetbl = './data/dendrogram20190514/Annotation_MC_final.txt'
+funClades, clade2ann = get_leaf2clade(leaf2cladetbl)
 ks_names = []
 ks_seqs = []
 fa = SeqIO.parse(open(sys.argv[1]),'fasta')
+print "\t".join(['query_seq_id', 'clade_assignment', 'clade_annotation'])
 for rec in fa:
-    ks_names.append('>q_'+rec.id) ## NOTE: this assumes this header will be unique when compared to the reference set. if not, will return OUTGROUP regardless of the call. If running such non-uniue seqs, change the header to '>query_'+rec.id or similar make it unique
+    ks_names.append('>'+rec.id) ## NOTE: this assumes this header will be unique when compared to the reference set. if not, will return OUTGROUP regardless of the call. If running such non-uniue seqs, change the header to '>query_'+rec.id or similar make it unique
     ks_seqs.append(rec.seq)
-    ra = './data/dendrogram20190514/649KS_sequences_031218.fasta'
-    d = './data'
     alignment_file = align_ks_domains(ra, ks_names, ks_seqs)
-    clade = run_pipeline_pplacer('precomp', './', ra, alignment_file, d, 0.6)
+    clade = run_pipeline_pplacer('precomp', './', ra, alignment_file, d, 0.6, funClades)
+    #Remove temporary files
+    for f in ['pplacer_tree.jplace', 'pplacer_tree.sing.tre', 'precomp_funcAnnotate_perKS.txt']:
+        os.remove(f)
     for k in clade:
-        print "\t".join([str(k), str(clade[k])])
+        print "\t".join([str(k), str(clade[k]), clade2ann[clade[k]]])
