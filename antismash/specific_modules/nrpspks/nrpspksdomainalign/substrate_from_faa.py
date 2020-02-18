@@ -523,11 +523,11 @@ ra = './data/dendrogram20190514/649KS_sequences_031218.fasta'
 d = './data'
 leaf2cladetbl = './data/dendrogram20190514/Annotation_MC_final.txt'
 funClades, clade2ann = get_leaf2clade(leaf2cladetbl)
-ks_names = []
-ks_seqs = []
 fa = SeqIO.parse(open(sys.argv[1]),'fasta')
 print "\t".join(['query_seq_id', 'clade_assignment', 'clade_annotation'])
 for rec in fa:
+    ks_names = []
+    ks_seqs = []
     ks_names.append('>'+rec.id) ## NOTE: this assumes this header will be unique when compared to the reference set. if not, will return OUTGROUP regardless of the call. If running such non-uniue seqs, change the header to '>query_'+rec.id or similar make it unique
     ks_seqs.append(rec.seq)
     alignment_file = align_ks_domains(ra, ks_names, ks_seqs)
