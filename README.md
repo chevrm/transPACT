@@ -33,11 +33,12 @@ This creates a new environment called `impact` with all dependencies installed. 
 ## Running IMPACT to assign KS substrate specificity 
 
 * `python impact_substrate_from_faa.py <protein_fasta_of_KS_domains.faa>`
-  * IMPACT prediction of trans-AT substrate from a protein fasta. An example is provided in `example/test.faa`.
+  * IMPACT prediction of _trans_-AT substrate from a protein fasta. An example is provided in `example/test.faa`.
   * Tab separated output (default is to STDOUT; redirect to a file to save results)
   
-* `python ./data/dendrogram20190829/generate_dendrogram_userweights.py <Jaccard_weight> <DDS_weight> <AdjacencyIndex_weight>`
-  * Generate trans-AT pathway dendrogram
-  * Suggested weights are Jaccard = 0, DDS = 0.32, Adjacency index = 0.68
+* `python ./data/dendrogram20190829/generate_dendrogram_userweights.py <Jaccard_weight> <DSS_weight> <AdjacencyIndex_weight>`
+  * Generate _trans_-AT pathway dendrogram
+  * Implementation of Jaccard index (JI), domain sequence similariry (DSS), and adjacency index is as described in BiG-SCAPE \[[paper](https://www.nature.com/articles/s41589-019-0400-9 "Link to paper")\]. Briefly, JI measures the percentage of shared types of domains, DSS measures sequence identity between protein domains, and AI measures the percentage of pairs of adjacent domains.
+    * Suggested weights are JI = 0, DSS = 0.32, AI = 0.68, the same weights that are used in BiG-SCAPE's distance calculation for _trans_-AT PKS pathways.
   * Not provided in this repo (due to size): all vs all diamond table (filename set at line 576).
 
