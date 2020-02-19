@@ -41,4 +41,8 @@ This creates a new environment called `impact` with all dependencies installed. 
   * Implementation of Jaccard index (JI), domain sequence similariry (DSS), and adjacency index is as described in BiG-SCAPE \[[paper](https://www.nature.com/articles/s41589-019-0400-9 "Link to paper")\]. Briefly, JI measures the percentage of shared types of domains, DSS measures sequence identity between protein domains, and AI measures the percentage of pairs of adjacent domains.
     * Suggested weights are JI = 0, DSS = 0.32, AI = 0.68, the same weights that are used in BiG-SCAPE's distance calculation for _trans_-AT PKS pathways.
   * Not provided in this repo (due to size): all vs all diamond table (filename set at line 576).
+  
+## What's actually happening when I run IMPACT
+
+The core IMPACT algorithm is found at `antismash/specific_modules/nrpspks/nrpspksdomainalign/substrate_from_faa.py`. It has been symbolically linked at `impact_substrate_from_faa.py` for user convenience. For each ketosynthase domain (input as a protein fasta), KSs are aligned to a reference alignment of a core set of 647 experimentally characterized KS domains with MUSCLE (see `align_ks_domains()`; invoked on line 533). This alignment is used to phylogenetically place the query sequence onto a reference phylogeny (placement with pplacer; see `run_pipeline_pplacer()`; invoked on line 534) and query sequences are assigned to a clade and functional classification based on monophyly (see `parse_pplacer()`).
 
