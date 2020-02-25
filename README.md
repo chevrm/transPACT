@@ -14,7 +14,7 @@ EJN Helfrich*, R Ueoka*, MG Chevrette*, F Hemmerling, X Lu, S Leopold-Messer, AY
 
 \* equal contributions
 
-† to whom correspondance should be addressed; JP: jpiel (at) ethz.ch | MHM: marnix.medima (at) wur.nl
+† to whom correspondance should be addressed; JP: jpiel (at) ethz.ch | MHM: marnix.medema (at) wur.nl
 
 ## Brief description
 
