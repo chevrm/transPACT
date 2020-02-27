@@ -41,6 +41,7 @@ This creates a new environment called `impact` with all dependencies installed. 
   * Implementation of Jaccard index (JI), domain sequence similariry (DSS), and adjacency index is as described in BiG-SCAPE \[[paper](https://www.nature.com/articles/s41589-019-0400-9 "Link to paper")\]. Briefly, JI measures the percentage of shared types of domains, DSS measures sequence identity between protein domains, and AI measures the percentage of pairs of adjacent domains.
     * Suggested weights are JI = 0, DSS = 0.32, AI = 0.68, the same weights that are used in BiG-SCAPE's distance calculation for _trans_-AT PKS pathways.
   * Not provided in this repo (due to size): all vs all diamond table (filename set at line 576).
+  * Output is a newick format dendrogram that can be visualized in any number of tree visualization software. We recommend iTOL, and have used that for out global analysis \[[iTOL](https://itol.embl.de/ "Link to iTOL")\] \[[our analysis](https://itol.embl.de/tree/12810415342393521582825923# "Link to our global trans-AT dendrogram")\]. Extensive documentation on annotating iTOL trees can be found [here](https://itol.embl.de/help.cgi#datasets "Link to iTOL documentation"). Our annotation files are at `data/dendrogram20200227/itol_bin.txt` for denoting whether a BGC lies on a contig edge and `data/dendrogram20200227/itol_dom.txt` for annotating the KS-domain clades of the pathway.
   
 ## What's actually happening when I run IMPACT
 
