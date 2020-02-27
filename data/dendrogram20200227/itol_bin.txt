@@ -7,99 +7,6 @@ FIELD_LABELS,f1
 DATA
 OUTGROUP_2qo3|chainA_EryKS3,-1
 OUTGROUP_2hg4|chainA_EryKS5,-1
-Salinispora pacifica|HQ215062|c1,1
-Paenibacillus curdlanolyticus YK9|AEDD01000016|c1,-1
-Paenibacillus polymyxa|JYCW01000004|c1,1
-Bacillus amyloliquefaciens LFB112|CP006952|c1,-1
-Paenibacillus graminis|CP009287|c2,-1
-Streptomyces albulus ZPM|CP006871|c8,1
-Bacillus thuringiensis serovar huazhongensis BGSC 4BD1|ACNI01000155|c1,-1
-Bacillus amyloliquefaciens|CYHP01000026|c1,-1
-Streptococcus mutans U2A|AHSU01000032|c1,-1
-Streptococcus mutans 4VF1|AHRQ01000034|c1,-1
-Streptococcus mutans 4SM1|AHRL01000038|c1,-1
-Streptococcus mutans NLML8|AHSV01000055|c1,-1
-Streptococcus mutans 1SM1|AHRK01000020|c1,-1
-Paenibacillus sp FSL R7-269|ASPS01000080|c1,-1
-Paenibacillus pini JCM 16418|BAVZ01000001|c1,-1
-Brevibacillus sp CF112|AKKB01000147|c1,-1
-Pseudobacteroides cellulosolvens ATCC 35603 = DSM 2933|LGTC01000001|c1,-1
-Clostridium papyrosolvens DSM 2782|ACXX02000005|c1,-1
-Lysinibacillus sp FJAT-14745|LITM01000006|c1,-1
-Streptococcus mutans 15VF2|AHRR01000004|c1,-1
-Clostridium papyrosolvens C7|ATAY01000026|c1,-1
-Bacillus amyloliquefaciens|CYHL01000042|c1,-1
-Paenibacillus sp HGH0039|AGEN01000003|c1,-1
-Brevibacillus brevis|KC771276|c1,-1
-Brevibacillus sp BC25|AKIX01000103|c1,-1
-Paenibacillus sp FSL R7-277|ASPX01000069|c1,1
-Streptococcus mutans N34|AHSF01000009|c1,-1
-Paenibacillus polymyxa|JTHO01000016|c1,-1
-Brevibacillus laterosporus GI-9|CAGD01000004|c1,-1
-Brevibacillus laterosporus|CP011076|c7,-1
-Paenibacillus riograndensis SBR5|LN831776|c4,-1
-Clostridium cellulolyticum H10|CP001348|c4,1
-Streptomyces aureofaciens|JPRF01000534|c1,1
-Paenibacillus polymyxa|CP009909|c8,-1
-Paenibacillus peoriae|CP011512|c3,-1
-Paenibacillus sp FSL R5-192|ASPR01000003|c1,1
-Nocardiopsis alba ATCC BAA-2165|CP003788|c5,-1
-Streptococcus mutans 1ID3|AHSX01000010|c1,-1
-Lactococcus lactis subsp lactis KF147|CP001834|c1,-1
-Paenibacillus polymyxa SQR-21|CP006872|c3,-1
-Streptococcus mutans SA38|AHRD01000030|c1,-1
-Bacillus velezensis NJN-6|CP007165|c1,-1
-Streptococcus mutans SM1|AHTD01000020|c1,-1
-Brevibacillus brevis|LDZV01000001|c5,-1
-Brevibacillus brevis|LDZV01000001|c4,-1
-Clostridium kluyveri DSM 555|CP000673|c2,-1
-Streptomyces albulus CCRC 11814|AROY02000001|c2,1
-Clostridium papyrosolvens DSM 2782|ACXX02000004|c1,1
-Paenibacillus sp Leaf72|LMLV01000031|c1,1
-Streptomyces venezuelae|LN881739|c6,1
-Brevibacillus formosus|LDCN01000001|c2,-1
-Bacillus amyloliquefaciens|LJAU01000034|c2,-1
-Paenibacillus polymyxa|JYCW01000002|c1,-1
-Streptococcus mutans NLML5|AHSI01000007|c1,-1
-Clostridium clariflavum DSM 19732|CP003065|c2,-1
-Bacillus sp FJAT-27238|LGJF01000001|c7,-1
-Streptococcus mutans NV1996|AHSN01000003|c1,-1
-Paenibacillus polymyxa|JTHO01000007|c2,-1
-Brevibacillus brevis NBRC 100599|AP008955|c5,-1
-Streptomycetaceae bacterium MP113-05|AWQV01000196|c1,1
-Paenibacillus polymyxa CR1|CP006941|c2,-1
-Paenibacillus sp VT-400|LELF01000067|c7,-1
-Paenibacillus polymyxa|JTHO01000003|c1,-1
-Streptomyces albulus|CP007574|c8,1
-Bacillus amyloliquefaciens|JUDU01000113|c1,-1
-Brevibacillus agri BAB-2500|AOBR01000090|c1,-1
-Streptococcus mutans SF14|AHSQ01000006|c1,-1
-Streptococcus mutans LJ23|AP012336|c1,-1
-Streptococcus mutans NCTC 11060|AOCC01000020|c1,-1
-Lactococcus lactis subsp lactis NCDO 2118|CP009054|c1,-1
-Clostridium kluyveri NBRC 12016|AP009049|c2,-1
-Clostridium termitidis CT1112|AORV01000016|c1,-1
-Salinispora tropica|EF397502|c1,1
-Paenibacillus sp FSL R7-269|ASPS01000047|c1,-1
-Streptomyces albulus PD-1|AXDB02000008|c1,1
-Paenibacillus alvei A6-6i-x|ATMS01000014|c1,-1
-Brevibacillus laterosporus PE36|AXBT01000062|c2,-1
-Clostridium pasteurianum NRRL B-598|CP011966|c1,-1
-Clostridium papyrosolvens C7|ATAY01000017|c1,-1
-Clostridium sp BNL1100|CP003259|c1,-1
-Clostridium sp BNL1100|CP003259|c3,-1
-Brevibacillus sp Leaf182|LMPN01000003|c3,-1
-Salinispora tropica CNB-440|CP000667|c3,1
-Paenibacillus alvei DSM 29|AMBZ01000008|c1,-1
-Streptococcus mutans OMZ175|AHRI01000027|c1,-1
-Paenibacillus sp HGF7|AFDH01000057|c1,-1
-Paenibacillus sp ICGEB2008|AMQU01000007|c3,-1
-Chitinophaga pinensis DSM 2588|CP001699|c6,-1
-Streptococcus mutans 66-2A|AHTA01000017|c1,-1
-Brevibacillus laterosporus LMG 15441|CP007806|c10,-1
-Streptococcus mutans NLML1|AHSW01000002|c1,-1
-Brevibacillus formosus|LDCN01000001|c1,-1
-Streptomyces sp JS360|FR687018|c1,1
 Streptomyces sp NRRL S-4|LGKJ01000145|c1,1
 Bacillus sp 916|AFSU01000082|c1,1
 Massilia sp NR 4-1|CP012201|c7,-1
@@ -113,9 +20,6 @@ Streptomyces coelicoflavus ZG0656|AHGS01001228|c1,1
 Streptomyces acidiscabies|JPPY01000183|c1,-1
 Streptomyces sp NRRL WC-3753|LGKF01001480|c1,1
 Streptomyces albulus PD-1|AXDB02000045|c1,1
-Streptomyces sp NRRL S-4|LGKJ01000153|c1,1
-Saccharomonospora xinjiangensis XJ-54|JH636049|c1,1
-Streptomyces toyocaensis|JFCB01000021|c1,1
 disorazole,-1
 Sorangium cellulosum|DQ013294|c1,-1
 Sorangium cellulosum|AJ874112|c1,-1
@@ -131,8 +35,6 @@ Peptococcaceae bacterium BICA1-7|JUEB01000024|c1,1
 Xanthomonas campestris pv cannabis|JSZF01000100|c1,1
 Xanthomonas campestris pv cannabis|JSZE01000115|c1,1
 Pelosinus fermentans B4|AKVJ01000015|c1,1
-Streptomyces mutabilis|JNFQ01000003|c1,1
-Bacillus cereus BAG5X1-1|AHDJ01000055|c1,1
 Bacillus amyloliquefaciens UASWS BA1|AWQY01000006|c1,1
 Bacillus amyloliquefaciens|JQNZ01000019|c1,1
 Bacillus sp LK7|LDUN01000016|c1,1
@@ -145,10 +47,6 @@ Bacillus sp 916|AFSU01000026|c1,1
 Xanthomonas albilineans GPE PC73|FP565176|c6,-1
 albicidin,-1
 Xanthomonas albilineans|AJ586576|c1,-1
-Paenibacillus sp IHB B 3415|JUEI01000066|c1,1
-Clostridium saccharoperbutylacetonicum N1-4HMT|CP004121|c2,-1
-Brevibacillus laterosporus|CP011076|c4,-1
-Brevibacillus laterosporus PE36|AXBT01000024|c1,-1
 Streptomyces aurantiacus JA 4570|AOPZ01000159|c1,1
 Clostridium papyrosolvens DSM 2782|ACXX02000026|c1,1
 Candidatus Profftella armatura|CP003468|c1,-1
@@ -169,9 +67,6 @@ Burkholderia mallei|JPGJ01000003|c2,-1
 Burkholderia gladioli|JRGO01000053|c1,-1
 Bacillus sp FJAT-27238|LGJF01000001|c2,-1
 Brevibacillus brevis|LDZV01000001|c11,-1
-Streptomyces sp NRRL B-1568|JZWZ01000075|c1,1
-Xenorhabdus nematophila ATCC 19061|FN667742|c6,-1
-Xenorhabdus nematophila AN61|LN681227|c6,-1
 griseoviridin,-1
 Streptomyces virginiae|AB283030|c1,1
 virginiamycin,-1
@@ -246,31 +141,8 @@ Bacillus subtilis|DQ844599|c1,1
 Bacillus amyloliquefaciens|JMEG01000001|c1,-1
 Paenibacillus sp IHB B 3415|JUEI01000002|c1,-1
 Paenibacillus sp FSL R5-0912|CP009282|c2,-1
-Paenibacillus sp FSL R7-0273|CP009283|c2,-1
-Paenibacillus sp FSL P4-0081|CP009280|c3,-1
-Paenibacillus borealis|CP009285|c2,-1
 Aquimarina atlantica|AQRA01000010|c1,-1
-Paenibacillus durus|CP009288|c3,-1
-Clostridium papyrosolvens DSM 2782|ACXX02000001|c1,-1
-Flavobacterium reichenbachii|JPRL01000001|c2,-1
-Streptococcus mutans SA38|AHRD01000019|c1,-1
 Clostridium cellulolyticum H10|CP001348|c1,-1
-Streptococcus mutans 15VF2|AHRR01000015|c1,1
-Streptococcus mutans 1SM1|AHRK01000050|c1,1
-Streptococcus mutans 4SM1|AHRL01000052|c1,1
-Streptococcus mutans NLML1|AHSW01000064|c1,1
-Streptococcus mutans 4VF1|AHRQ01000032|c1,1
-Paenibacillus durus|CP009288|c4,-1
-Bacillus thuringiensis|CP009336|c1,-1
-Flavobacterium hydatis|JPRM01000036|c1,-1
-Flavobacterium sp ABG|LEKS01000015|c1,-1
-Streptococcus mutans 15VF2|AHRR01000028|c1,1
-Streptococcus mutans 4SM1|AHRL01000011|c1,1
-Streptococcus mutans 4VF1|AHRQ01000021|c1,1
-Streptococcus mutans 1SM1|AHRK01000037|c1,1
-Streptococcus mutans NLML1|AHSW01000006|c1,1
-Photobacterium gaetbulicola Gung47|CP005973|c1,-1
-Clostridium papyrosolvens DSM 2782|ACXX02000007|c2,-1
 Saccharomonospora cyanea NA-134|CM001440|c10,-1
 Kibdelosporangium phytohabitans|CP012752|c14,-1
 Sorangium cellulosum|KT368180|c1,-1
@@ -278,371 +150,11 @@ chlorotonil,-1
 Streptomyces sp CNH365|KT368179|c1,1
 anthracimycin,1
 Streptomyces sp T676|LN871452|c1,1
-Bacillus cereus BGSC 6E1|ACLU01000141|c1,1
-Bacillus thuringiensis serovar pondicheriensis BGSC 4BA1|ACNH01000126|c1,1
-Plesiocystis pacifica SIR-1|ABCS01000005|c1,1
 Burkholderia pseudomallei MSHR332|JQFM01000061|c1,-1
 Burkholderia pseudomallei|JQIM01000009|c8,-1
 Burkholderia pseudomallei|CGIB01000024|c1,-1
 malleilactone,-1
-Candidatus Endolissoclinum faulkneri L5|CP006745|c3,-1
 Sporocytophaga myxococcoides|BBLT01000001|c2,-1
-Burkholderia pseudomallei|CFZB01000025|c1,-1
-Burkholderia pseudomallei|JZXP01000028|c3,-1
-Burkholderia pseudomallei TSV32|JQHT01000069|c1,-1
-Burkholderia thailandensis|CP008915|c9,-1
-Burkholderia mallei|CP009943|c1,-1
-Burkholderia pseudomallei|CSLP01000024|c1,-1
-Burkholderia pseudomallei|CFXK01000021|c1,-1
-Burkholderia pseudomallei 1026b|CP002834|c4,-1
-Burkholderia thailandensis H0587|CP004090|c9,-1
-Burkholderia pseudomallei|CGFJ01000023|c1,-1
-Burkholderia pseudomallei 668|CP000571|c4,-1
-Burkholderia mallei ATCC 23344|CP000011|c6,-1
-Burkholderia pseudomallei|CIGV01000022|c1,-1
-Burkholderia pseudomallei|CFWC01000023|c1,-1
-Burkholderia pseudomallei MSHR146|CP004043|c2,-1
-Burkholderia pseudomallei|CFXP01000004|c3,-1
-Burkholderia pseudomallei MSHR2138|JRFM01000118|c1,-1
-Burkholderia pseudomallei|CGEV01000018|c1,-1
-Burkholderia pseudomallei 576|CP008778|c1,-1
-Burkholderia pseudomallei|CFVK01000021|c1,-1
-Burkholderia pseudomallei|CSQP01000025|c1,-1
-Burkholderia pseudomallei|CFWD01000020|c1,-1
-Burkholderia pseudomallei 1106b|CM000775|c9,-1
-Burkholderia pseudomallei|CGHA01000021|c1,-1
-Burkholderia pseudomallei K42|CP009163|c6,-1
-Burkholderia pseudomallei MSHR7500|JREN01000080|c1,-1
-Burkholderia pseudomallei MSHR4032|JPQL01000005|c10,-1
-Burkholderia pseudomallei MSHR6137|AXDS01000036|c1,-1
-Burkholderia pseudomallei MSHR4377|JPQH01000002|c6,-1
-Burkholderia pseudomallei 1026a|AHJA01000090|c1,-1
-Burkholderia pseudomallei|CSLK01000023|c1,-1
-Burkholderia pseudomallei|CHKR01000019|c1,-1
-Burkholderia pseudomallei|CSKJ01000023|c1,-1
-Burkholderia pseudomallei PB08298010|CP009550|c4,-1
-Burkholderia pseudomallei K96243|BX571966|c4,-1
-Burkholderia pseudomallei|CWJC01000011|c1,-1
-Burkholderia pseudomallei MSHR3964|JPVD01000007|c6,-1
-Burkholderia mallei|CP009338|c5,-1
-Burkholderia pseudomallei|CSKK01000021|c1,-1
-Burkholderia pseudomallei|CFWT01000023|c1,-1
-Burkholderia pseudomallei|JPNV01000087|c2,-1
-Burkholderia pseudomallei TSV 31|JPVE01000007|c1,-1
-Burkholderia pseudomallei MSHR1000|JQEF01000029|c3,-1
-Burkholderia pseudomallei 1258b|AHJC01000186|c1,-1
-Burkholderia pseudomallei|CSNQ01000023|c1,-1
-Burkholderia pseudomallei MSHR4000|JPVL01000011|c3,-1
-Burkholderia pseudomallei 406e|CP009297|c5,-1
-Burkholderia pseudomallei|CFVM01000021|c1,-1
-Burkholderia pseudomallei MSHR4372|JPQJ01000004|c8,-1
-Burkholderia pseudomallei|CSLM01000021|c1,-1
-Burkholderia pseudomallei MSHR3016|JQEH01000046|c3,-1
-Burkholderia mallei|LBFF01000094|c1,-1
-Burkholderia pseudomallei TSV44|JQGX01000063|c1,-1
-Burkholderia pseudomallei MSHR2243|CP009269|c6,-1
-Burkholderia pseudomallei|CSSV01000021|c1,-1
-Burkholderia pseudomallei MSHR3960|JPVJ01000009|c6,-1
-Burkholderia pseudomallei MSHR4503|JPQN01000004|c10,-1
-Burkholderia pseudomallei MSHR4003|JPUZ01000004|c9,-1
-Burkholderia pseudomallei|CP008763|c10,-1
-Burkholderia pseudomallei|CP009586|c9,-1
-Burkholderia pseudomallei K96243|CP009537|c9,-1
-Burkholderia mallei|CP008710|c4,-1
-Burkholderia pseudomallei MSHR346|ACOJ01000001|c13,-1
-Burkholderia pseudomallei MSHR4303|JPVM01000024|c1,-1
-Burkholderia pseudomallei|CHFI01000020|c1,-1
-Burkholderia pseudomallei MSHR5858|CP008891|c4,-1
-Burkholderia pseudomallei|CFZV01000023|c1,-1
-Burkholderia mallei ATCC 10399|CH899683|c4,-1
-Burkholderia pseudomallei|CSKF01000022|c1,-1
-Burkholderia pseudomallei|CFWA01000005|c1,-1
-Burkholderia pseudomallei|LK936443|c4,-1
-Burkholderia pseudomallei|CFVS01000022|c1,-1
-Burkholderia ubonensis MSMB22|CP009487|c3,-1
-Burkholderia pseudomallei MSHR465J|JPZW01000008|c5,-1
-Burkholderia pseudomallei|CFWG01000006|c1,-1
-Burkholderia pseudomallei|JPNU01000055|c1,-1
-Burkholderia mallei|JPGJ01000001|c4,-1
-Burkholderia pseudomallei|CSLC01000017|c1,-1
-Burkholderia pseudomallei|CSKA01000022|c1,-1
-Burkholderia pseudomallei|CSLJ01000021|c1,-1
-Burkholderia pseudomallei|CFWQ01000023|c1,-1
-Burkholderia pseudomallei|CSPM01000023|c1,-1
-Burkholderia pseudomallei|JYBH01000040|c2,-1
-Burkholderia pseudomallei|CIAU01000022|c1,-1
-Burkholderia pseudomallei 1710b|CP000125|c11,-1
-Burkholderia pseudomallei MSHR7498|JQDH01000069|c1,-1
-Burkholderia mallei NCTC 10247|CP007801|c10,-1
-Burkholderia pseudomallei|CIGX01000005|c3,-1
-Burkholderia pseudomallei|CGEZ01000024|c1,-1
-Burkholderia pseudomallei|CSQC01000023|c1,-1
-Burkholderia oklahomensis|CP008727|c6,-1
-Burkholderia pseudomallei MSHR3335|JRFL01000007|c2,-1
-Burkholderia pseudomallei|CSLI01000005|c1,-1
-Burkholderia pseudomallei MSHR1043|AOGU01000014|c1,-1
-Burkholderia pseudomallei|CGFD01000016|c1,-1
-Burkholderia pseudomallei MSHR1328|APNR01000005|c10,-1
-Burkholderia pseudomallei|LGKL01000026|c1,-1
-Burkholderia thailandensis 2002721643|CP009602|c8,-1
-Burkholderia mallei|JNOV01000093|c1,-1
-Burkholderia pseudomallei|CSMB01000024|c1,-1
-Burkholderia pseudomallei MSHR3709|JRFK01000111|c1,-1
-Burkholderia pseudomallei MSHR5596|JQDE01000127|c1,-1
-Burkholderia pseudomallei|CSKT01000024|c1,-1
-Burkholderia pseudomallei 7894|CP009536|c6,-1
-Burkholderia pseudomallei|CGHC01000019|c1,-1
-Burkholderia mallei|JPGO01000137|c1,-1
-Burkholderia pseudomallei|CHFE01000026|c1,-1
-Burkholderia pseudomallei|CSJU01000022|c1,-1
-Burkholderia mallei|JNUY01000203|c1,-1
-Burkholderia pseudomallei MSHR62|CP009234|c4,-1
-Burkholderia pseudomallei 1258a|AHJB01000187|c1,-1
-Burkholderia thailandensis MSMB121|CP004096|c3,-1
-Burkholderia pseudomallei|CSKC01000022|c1,-1
-Burkholderia pseudomallei|CGHG01000024|c1,-1
-Burkholderia pseudomallei|CSLA01000021|c1,-1
-Burkholderia pseudomallei|CFYP01000023|c1,-1
-Burkholderia mallei|JPNX02000001|c6,-1
-Burkholderia pseudomallei|CFVQ01000023|c1,-1
-Burkholderia pseudomallei|CIKM01000005|c3,-1
-Burkholderia pseudomallei MSHR4462|JPQM01000003|c2,-1
-Burkholderia pseudomallei MSHR5848|CP008910|c8,-1
-Burkholderia pseudomallei MSHR543|JPZX01000013|c1,-1
-Burkholderia pseudomallei|CSKW01000019|c1,-1
-Burkholderia pseudomallei|CFXG01000021|c1,-1
-Burkholderia pseudomallei|CIGS01000020|c1,-1
-Burkholderia pseudomallei|CWJD01000018|c1,-1
-Burkholderia pseudomallei MSHR5613|JQDK01000077|c1,-1
-Burkholderia pseudomallei|JOTV01000069|c2,-1
-Burkholderia pseudomallei|CSQB01000023|c1,-1
-Burkholderia pseudomallei NAU20B-16|CP004004|c13,-1
-Burkholderia pseudomallei MSHR435|JRFP01000045|c1,-1
-Burkholderia pseudomallei|CSLS01000022|c1,-1
-Burkholderia pseudomallei|JPHB01000021|c2,-1
-Burkholderia pseudomallei|CSRL01000023|c1,-1
-Burkholderia pseudomallei ABCPW 91|JPUY01000004|c5,-1
-Burkholderia pseudomallei|JYBJ01000026|c3,-1
-Burkholderia pseudomallei MSHR5608|JPWQ01000080|c1,-1
-Burkholderia mallei|CP009588|c11,-1
-Burkholderia pseudomallei|CFWL01000024|c1,-1
-Burkholderia pseudomallei|CSOW01000003|c3,-1
-Burkholderia pseudomallei MSHR684|JQDC01000005|c6,-1
-Burkholderia pseudomallei|CFZL01000023|c1,-1
-Burkholderia pseudomallei|CSNO01000022|c1,-1
-Burkholderia pseudomallei|JOTS01000016|c2,-1
-Burkholderia pseudomallei MSHR640|JQFP01000041|c2,-1
-Burkholderia pseudomallei|CHFD01000021|c1,-1
-Burkholderia pseudomallei|CIBB01000002|c1,-1
-Burkholderia pseudomallei|CSKD01000019|c1,-1
-Burkholderia pseudomallei|CGFU01000024|c1,-1
-Burkholderia pseudomallei|CP008754|c10,-1
-Burkholderia pseudomallei|JOTT01000049|c3,-1
-Burkholderia pseudomallei MSHR3458|JQOB01000006|c5,-1
-Burkholderia pseudomallei|CSKU01000022|c1,-1
-Burkholderia pseudomallei|CSNB01000002|c1,-1
-Burkholderia pseudomallei|CIBE01000026|c1,-1
-Burkholderia pseudomallei MSHR1079|APNS01000004|c4,-1
-Burkholderia pseudomallei|CSSE01000023|c1,-1
-Burkholderia pseudomallei MSHR4375|JPVI01000008|c1,-1
-Burkholderia pseudomallei|CSKX01000018|c1,-1
-Burkholderia pseudomallei MSHR338|ATJY01000041|c1,-1
-Burkholderia pseudomallei|CFVY01000001|c3,-1
-Burkholderia pseudomallei|CSNM01000023|c1,-1
-Burkholderia pseudomallei MSHR5855|CP008783|c5,-1
-Burkholderia pseudomallei TSV5|JQGY01000058|c1,-1
-Burkholderia pseudomallei MSHR4300|JPQI01000001|c6,-1
-Burkholderia pseudomallei|CP008835|c10,-1
-Burkholderia pseudomallei|CSLE01000019|c1,-1
-Burkholderia pseudomallei|CFVZ01000021|c1,-1
-Burkholderia pseudomallei|CIJT01000024|c1,-1
-Burkholderia thailandensis 2002721723|CP004098|c11,-1
-Burkholderia pseudomallei|CSKG01000024|c1,-1
-Burkholderia pseudomallei|CFVP01000023|c1,-1
-Burkholderia pseudomallei|CIAW01000021|c1,-1
-Burkholderia pseudomallei MSHR733|JQEE01000021|c1,-1
-Burkholderia pseudomallei|JNOW01000071|c2,-1
-Burkholderia pseudomallei|CSPX01000022|c1,-1
-Burkholderia pseudomallei MSHR449|JQFO01000048|c1,-1
-Burkholderia pseudomallei 1710a|CM000833|c13,-1
-Burkholderia pseudomallei|CSKS01000021|c1,-1
-Burkholderia pseudomallei|CGFR01000002|c1,-1
-Burkholderia mallei|CP009147|c12,-1
-Burkholderia pseudomallei|CIHR01000005|c1,-1
-Burkholderia pseudomallei|CP012577|c3,-1
-Burkholderia pseudomallei MSHR4012|JPVH01000008|c5,-1
-Burkholderia pseudomallei|CSSB01000005|c3,-1
-Burkholderia pseudomallei|CSKV01000019|c1,-1
-Burkholderia mallei|CP009708|c6,-1
-Burkholderia pseudomallei|CSRV01000004|c1,-1
-Burkholderia pseudomallei|CGHT01000004|c1,-1
-Burkholderia pseudomallei|CFVV01000020|c1,-1
-Burkholderia pseudomallei|JOUA01000008|c4,-1
-Burkholderia pseudomallei|CSRJ01000005|c3,-1
-Burkholderia pseudomallei|CFXD01000024|c1,-1
-Burkholderia pseudomallei|CFVW01000022|c1,-1
-Burkholderia pseudomallei|CFVX01000021|c1,-1
-Burkholderia pseudomallei|CP008917|c11,-1
-Burkholderia pseudomallei|CFXB01000006|c1,-1
-Burkholderia thailandensis USAMRU Malaysia #20|CP004384|c7,-1
-Burkholderia pseudomallei MSHR840|CP009473|c8,-1
-Burkholderia pseudomallei|CWJA01000021|c1,-1
-Burkholderia pseudomallei 1026b|CP004380|c10,-1
-Burkholderia pseudomallei MSHR4308|JPVB01000003|c6,-1
-Burkholderia pseudomallei MSHR1357|JQDA01000034|c3,-1
-Burkholderia pseudomallei A79C|JQHQ01000119|c1,-1
-Burkholderia pseudomallei MSHR303|JQDD01000011|c4,-1
-Burkholderia pseudomallei|CGEY01000002|c3,-1
-Burkholderia pseudomallei MSHR2543|CP009477|c4,-1
-Burkholderia pseudomallei 576|ACCE01000006|c1,-1
-Burkholderia pseudomallei|CHFC01000020|c1,-1
-Burkholderia pseudomallei ABCPW 107|JQDN01000072|c1,-1
-Burkholderia pseudomallei|CFVI01000020|c1,-1
-Burkholderia pseudomallei|CGHB01000023|c1,-1
-Burkholderia pseudomallei TSV 25|JPVK01000015|c6,-1
-Burkholderia pseudomallei|JQIK01000004|c4,-1
-Burkholderia pseudomallei|CP008782|c10,-1
-Burkholderia pseudomallei MSHR520|CP004369|c9,-1
-Burkholderia pseudomallei|CIJQ01000005|c3,-1
-Burkholderia pseudomallei|CIAV01000019|c1,-1
-Burkholderia mallei|JPGF01000203|c1,-1
-Burkholderia pseudomallei|CFZT01000002|c4,-1
-Burkholderia pseudomallei|JPNW01000075|c1,-1
-Burkholderia pseudomallei|CSKQ01000025|c1,-1
-Burkholderia pseudomallei|CIBL01000023|c1,-1
-Burkholderia pseudomallei|CSLG01000019|c1,-1
-Burkholderia pseudomallei|CHKS01000018|c1,-1
-Burkholderia pseudomallei|CIBF01000003|c1,-1
-Burkholderia pseudomallei NCTC 13178|CP004002|c4,-1
-Burkholderia pseudomallei|CSPA01000002|c4,-1
-Burkholderia pseudomallei|CFVL01000024|c1,-1
-Burkholderia pseudomallei|CSME01000022|c1,-1
-Burkholderia pseudomallei|CSLU01000001|c1,-1
-Burkholderia pseudomallei|CIAY01000020|c1,-1
-Burkholderia pseudomallei|CWJE01000020|c1,-1
-Burkholderia pseudomallei MSHR983|JQDI01000008|c5,-1
-Burkholderia pseudomallei|CSLL01000025|c1,-1
-Burkholderia pseudomallei ABCPW 30|JPVF01000008|c6,-1
-Burkholderia pseudomallei|CSKM01000022|c1,-1
-Burkholderia pseudomallei MSHR1153|CP009272|c11,-1
-Burkholderia pseudomallei MSHR7504|JPWR01000058|c1,-1
-Burkholderia pseudomallei|CIGK01000018|c1,-1
-Burkholderia mallei|JPGH01000160|c1,-1
-Burkholderia pseudomallei|CSKI01000024|c1,-1
-Burkholderia pseudomallei|CGEW01000024|c1,-1
-Burkholderia pseudomallei|CIGP01000024|c1,-1
-Burkholderia pseudomallei|CP009127|c6,-1
-Burkholderia pseudomallei|JQII01000001|c7,-1
-Burkholderia pseudomallei|CSLN01000025|c1,-1
-Burkholderia pseudomallei MSHR491|CP009484|c4,-1
-Burkholderia pseudomallei A79A|CP009164|c9,-1
-Burkholderia pseudomallei|CGHK01000024|c1,-1
-Burkholderia pseudomallei MSHR7343|JQDM01000096|c1,-1
-Burkholderia mallei|JNLV01000184|c1,-1
-Burkholderia pseudomallei NCTC 13179|CP003977|c10,-1
-Burkholderia contaminans|CP009745|c6,-1
-Burkholderia thailandensis MSMB59|CP004386|c9,-1
-Burkholderia pseudomallei|CGFW01000024|c1,-1
-Burkholderia mallei|CP008731|c6,-1
-Burkholderia pseudomallei|CSSW01000021|c1,-1
-Burkholderia pseudomallei|CGFK01000003|c2,-1
-Burkholderia pseudomallei|CSLF01000022|c1,-1
-Burkholderia thailandensis E254|CP004382|c7,-1
-Burkholderia pseudomallei MSHR4299|JPVC01000007|c6,-1
-Burkholderia pseudomallei|CSMO01000002|c1,-1
-Burkholderia pseudomallei|CSMS01000022|c1,-1
-Burkholderia pseudomallei|CSMH01000001|c5,-1
-Burkholderia pseudomallei|CIAS01000020|c1,-1
-Burkholderia pseudomallei|CWJF01000020|c1,-1
-Burkholderia pseudomallei|CFWE01000020|c1,-1
-Burkholderia pseudomallei HBPUB10303a|CP008893|c14,-1
-Burkholderia pseudomallei|CSRH01000023|c1,-1
-Burkholderia pseudomallei|CSQA01000003|c1,-1
-Burkholderia thailandensis E264|CP008785|c4,-1
-Burkholderia pseudomallei NAU35A-3|CP004378|c13,-1
-Burkholderia pseudomallei|CFVT01000017|c1,-1
-Burkholderia pseudomallei|CHKY01000004|c1,-1
-Burkholderia pseudomallei|CSKN01000023|c1,-1
-Burkholderia pseudomallei Pasteur 52237|CP009898|c3,-1
-Burkholderia pseudomallei|CSKP01000018|c1,-1
-Burkholderia pseudomallei MSHR5855|JMMV01000046|c1,-1
-Burkholderia mallei|CP009643|c6,-1
-Burkholderia pseudomallei|CGFL01000025|c1,-1
-Burkholderia pseudomallei|CFVR01000023|c1,-1
-Burkholderia pseudomallei|CGEX01000013|c1,-1
-Burkholderia pseudomallei MSHR5492|JQDO01000052|c1,-1
-Burkholderia pseudomallei|CFNN01000016|c1,-1
-Burkholderia pseudomallei|CSNW01000005|c1,-1
-Burkholderia pseudomallei|CSLH01000022|c1,-1
-Burkholderia pseudomallei TSV 48|CP009160|c2,-1
-Burkholderia pseudomallei BPC006|CP003782|c4,-1
-Burkholderia pseudomallei|CSKZ01000005|c2,-1
-Burkholderia pseudomallei|CP012516|c4,-1
-Burkholderia pseudomallei|CSLD01000003|c3,-1
-Burkholderia pseudomallei|CSLO01000020|c1,-1
-Burkholderia pseudomallei|CSKE01000003|c1,-1
-Burkholderia pseudomallei|CFWB01000029|c1,-1
-Burkholderia pseudomallei|CP008759|c4,-1
-Burkholderia pseudomallei|CP012518|c4,-1
-Burkholderia pseudomallei|CGFC01000017|c1,-1
-Burkholderia pseudomallei|CSKH01000018|c1,-1
-Burkholderia pseudomallei|CFZI01000022|c1,-1
-Burkholderia pseudomallei MSHR7334|JQDF01000080|c1,-1
-Burkholderia pseudomallei MSHR3965|CP009152|c5,-1
-Burkholderia sp MSHR3999|JRFO01000005|c1,-1
-Burkholderia pseudomallei|CFWJ01000018|c1,-1
-Burkholderia pseudomallei|CFVN01000006|c1,-1
-Burkholderia pseudomallei MSHR511|CP004024|c14,-1
-Burkholderia thailandensis Phuket 4W-1|AQQJ01000003|c7,-1
-Burkholderia pseudomallei TSV28|JQHU01000025|c1,-1
-Burkholderia pseudomallei|CSOX01000022|c1,-1
-Burkholderia pseudomallei|JOTW01000050|c5,-1
-Burkholderia pseudomallei MSHR3951|JPVA01000004|c2,-1
-Burkholderia pseudomallei|CSKL01000023|c1,-1
-Burkholderia pseudomallei BDU 2|JPVG01000006|c6,-1
-Burkholderia pseudomallei|CSPL01000022|c1,-1
-Burkholderia pseudomallei|CSKR01000019|c1,-1
-Burkholderia pseudomallei|CP009156|c4,-1
-Burkholderia pseudomallei TSV 43|JPQK01000002|c11,-1
-Burkholderia pseudomallei|JQIL01000005|c6,-1
-Burkholderia pseudomallei|CP009210|c5,-1
-Burkholderia oklahomensis C6786|CP009556|c1,-1
-Burkholderia pseudomallei ABCPW 1|JQIJ01000004|c10,-1
-Burkholderia pseudomallei|CSKO01000021|c1,-1
-Burkholderia pseudomallei|CFWF01000023|c1,-1
-Burkholderia thailandensis 34|CP010018|c6,-1
-Burkholderia pseudomallei|CSKY01000020|c1,-1
-Burkholderia pseudomallei|JPNP01000093|c1,-1
-Burkholderia pseudomallei|CSKB01000018|c1,-1
-Burkholderia pseudomallei MSHR5569|JQDL01000049|c1,-1
-Burkholderia pseudomallei MSHR456|JQFN01000035|c1,-1
-Burkholderia pseudomallei HBPUB10134a|CP008912|c11,-1
-Burkholderia pseudomallei|CIJK01000021|c1,-1
-Burkholderia pseudomallei MSHR4378|JQDP01000080|c1,-1
-Burkholderia pseudomallei|CSLB01000002|c1,-1
-Burkholderia pseudomallei MSHR2990|JQHV01000023|c1,-1
-Burkholderia pseudomallei|CFVO01000003|c1,-1
-Burkholderia pseudomallei|CSOU01000022|c1,-1
-Burkholderia pseudomallei|CFKW01000023|c1,-1
-Burkholderia pseudomallei|CHFB01000020|c1,-1
-Burkholderia pseudomallei MSHR1029|JQDB01000017|c1,-1
-Burkholderia pseudomallei|CP009546|c8,-1
-Burkholderia pseudomallei 1106a|CP000573|c4,-1
-Burkholderia mallei NCTC 10229|CP000545|c11,-1
-Burkholderia pseudomallei|CSQF01000023|c1,-1
-Burkholderia pseudomallei|CFNO01000020|c1,-1
-Burkholderia pseudomallei|CGFE01000019|c1,-1
-Burkholderia pseudomallei MSHR4304|JPOA01000002|c7,-1
-Burkholderia pseudomallei MSHR5609|JQDJ01000071|c1,-1
-Burkholderia pseudomallei|CGFB01000023|c1,-1
-Burkholderia pseudomallei MSHR2451|JQEG01000044|c1,-1
-Burkholderia pseudomallei MSHR7527|JPWS01000046|c1,-1
-Burkholderia pseudomallei|CFXU01000006|c3,-1
-Burkholderia pseudomallei|JOTU01000015|c4,-1
-Burkholderia pseudomallei B03|CP009150|c3,-1
-Burkholderia pseudomallei MSHR4868|JQGZ01000025|c1,-1
-Burkholderia pseudomallei|CSOV01000004|c3,-1
-Burkholderia thailandensis E264|CP000085|c10,-1
 Plesiocystis pacifica SIR-1|ABCS01000133|c1,1
 Streptomyces sp SPB074|GG770539|c1,-1
 Saccharothrix sp ST-888|JYJF01000008|c2,-1
@@ -654,23 +166,14 @@ leinamycin,-1
 Catenulispora acidiphila DSM 44928|CP001700|c5,-1
 Micromonospora aurantiaca ATCC 27029|CP002162|c12,-1
 Streptomyces atroolivaceus|AF484556|c1,-1
-Saccharothrix espanaensis DSM 44229|HE804045|c19,-1
 Streptomyces leeuwenhoekii|LN831790|c8,-1
 Burkholderia gladioli|JPGG01000009|c1,1
 Gloeobacter violaceus PCC 7421|BA000045|c4,-1
-tartrolon,-1
-Teredinibacter turnerae T7901|CP001614|c4,-1
-Gynuella sunshinyii YC6258|CP007142|c12,-1
 Hyalangium minutum|JMCB01000001|c1,-1
 Nostoc sp Peltigera membranacea cyanobiont|JQ975876|c1,1
-Streptomyces sp WAC5292|JQ768045|c1,1
 Myxococcus hansupus|CP012109|c9,-1
-Lysobacter sp ATCC 53042|JF412274|c2,1
 Micromonospora sp ATCC 39149|GG657738|c19,-1
 Sorangium cellulosum So0157-2|CP003969|c4,-1
-Peptococcaceae bacterium BICA1-7|JUEB01000029|c1,1
-Legionella parisiensis|KM222819|c1,1
-legioliulin,1
 kirromycin,-1
 Streptomyces cattleya NRRL 8057 = DSM 46488|FQ859185|c13,-1
 Streptomyces cattleya NRRL 8057 = DSM 46488|CP003219|c13,-1
@@ -678,39 +181,24 @@ Streptomyces collinus Tu 365|AM746336|c1,-1
 Streptomyces collinus Tu 365|CP006259|c27,-1
 Streptomyces collinus Tu 365|CP006259|c2,-1
 Kitasatospora setae KM-6054|AP010968|c28,-1
-chivosazole,1
-Sorangium cellulosum So ce56|AM746676|c17,1
-Sorangium cellulosum|DQ065771|c1,1
-Azospirillum brasilense|CP007796|c1,-1
 Azospirillum brasilense|JGVN01000004|c1,-1
-Candidatus Endolissoclinum faulkneri L2|CP003539|c3,-1
 Streptomyces bingchenggensis BCW-1|CP002047|c3,-1
 Streptomyces cyaneogriseus subsp noncyanogenus|CP010849|c4,-1
 Cellvibrio japonicus Ueda107|CP000934|c3,-1
 Burkholderia ubonensis MSMB22|CP009487|c1,-1
 Burkholderia sp MSHR3999|JRFO01000005|c2,-1
 Burkholderia ambifaria AMMD|CP009800|c5,-1
-enacyloxin,-1
 Burkholderia ambifaria AMMD|CP000442|c3,-1
-Candidatus Magnetoglobus multicellularis str Araruama|ATBP01000005|c1,1
-Streptomyces fulvissimus DSM 40593|CP005080|c6,-1
-Streptomyces sp CFMR 7|CP011522|c27,-1
 Pseudomonas aeruginosa CF27|AXRM01000017|c1,-1
 Pseudomonas sp CMAA1215|AVOY01000221|c1,-1
 Pseudomonas endophytica|LLWH01000135|c1,1
-Propionibacterium propionicum F0230a|CP002734|c3,-1
 Burkholderia pseudomallei|CP012518|c9,-1
 Burkholderia pseudomallei|CP008759|c13,-1
 Burkholderia pseudomallei ABCPW 1|JQIJ01000004|c6,-1
 Burkholderia pseudomallei 1026b|CP004380|c5,-1
 Burkholderia pseudomallei TSV 48|CP009160|c11,-1
 Burkholderia pseudomallei|CFWG01000010|c1,-1
-Paenibacillus polymyxa|JMIQ01000026|c1,1
 Gynuella sunshinyii YC6258|CP007142|c18,-1
-Paenibacillus tyrfis|JNVM01000036|c1,-1
-Polyangium brachysporum|CP011371|c6,-1
-Xanthomonas campestris pv cannabis|JSZE01000137|c1,1
-Pseudomonas syringae pv aceris|LJPM01000228|c1,1
 Pseudomonas syringae pv syringae B728a|CP000075|c9,-1
 Pseudomonas syringae pv syringae|JPNN01000115|c1,-1
 Pseudomonas syringae pv solidagae|LJRH01000102|c1,-1
@@ -735,7 +223,6 @@ Burkholderia mallei|CP008731|c9,-1
 Burkholderia mallei ATCC 23344|CP000011|c4,-1
 Burkholderia pseudomallei TSV28|JQHU01000166|c1,-1
 Burkholderia pseudomallei|JZXP01000034|c2,-1
-Burkholderia pseudomallei MSHR5608|JPWQ01000138|c1,1
 Burkholderia mallei NCTC 10229|CP000545|c3,-1
 Burkholderia mallei|JPGO01000136|c1,1
 Burkholderia pseudomallei MSHR1000|JQEF01000017|c1,1
@@ -1086,8 +573,6 @@ Burkholderia pseudomallei|CSSB01000018|c1,1
 Clostridium papyrosolvens DSM 2782|ACXX02000024|c1,1
 Streptomyces auratus AGR0001|AJGV01000169|c1,1
 Burkholderia gladioli|JPGG01000010|c1,1
-Burkholderia gladioli|JX173632|c1,-1
-Burkholderia gladioli BSR3|CP002599|c3,-1
 bongkrekic_acid,-1
 Bacillus amyloliquefaciens|LGYP01000013|c2,-1
 Bacillus subtilis|CP009684|c14,-1
@@ -1161,20 +646,12 @@ Bacillus amyloliquefaciens|CYHL01000089|c1,1
 Bacillus amyloliquefaciens|JUDU01000055|c1,1
 Bacillus atrophaeus C89|AJRJ01000085|c1,1
 Bacillus sp 916|AFSU01000083|c1,1
-Bacillus subtilis|JXHR01000025|c1,-1
 Bacillus subtilis|CYHS01000004|c1,1
 Bacillus cereus|CYHI01000673|c1,1
-Bacillus subtilis|CP011051|c11,-1
-Bacillus subtilis subsp subtilis str BAB-1|CP004405|c4,-1
-Bacillus subtilis XF-1|CP004019|c4,-1
-Paenibacillus pini JCM 16418|BAVZ01000003|c1,-1
 Streptococcus pneumoniae|CLUP01000018|c1,-1
 Bacillus sp 916|AFSU01000081|c1,1
 Bacillus amyloliquefaciens|CYHL01000016|c1,1
-Bacillus cereus|CYHI01000667|c1,1
-Bacillus subtilis subsp subtilis str 168|U11039|c1,1
 Bacillus velezensis|CP011347|c7,-1
-Bacillus subtilis subsp inaquosorum KCTC 13429|AMXN01000003|c2,-1
 Bacillus amyloliquefaciens XH7|CP002927|c7,-1
 Bacillus velezensis TrigoCor1448|CP007244|c6,-1
 Bacillus velezensis M27|AMPK01000010|c2,-1
@@ -1228,64 +705,8 @@ Bacillus amyloliquefaciens DSM 7|FN597644|c5,-1
 Bacillus amyloliquefaciens Y2|CP003332|c7,-1
 Bacillus sp 5B6|AJST01000001|c6,-1
 Bacillus velezensis|LGAU01000004|c1,-1
-Bacillus subtilis|LN649259|c5,-1
-Bacillus subtilis|CP011882|c8,-1
-Bacillus atrophaeus 1942|CP002207|c3,-1
-Bacillus subtilis QH-1|AZQS01000003|c3,-1
-Bacillus atrophaeus subsp globigii|CP007640|c3,-1
-Bacillus subtilis|CYHN01000020|c1,-1
-Bacillus subtilis subsp subtilis str OH 1311|CP007409|c5,-1
-Bacillus subtilis subsp subtilis|CP010314|c5,-1
-Bacillus subtilis|LFOC01000002|c2,-1
-Bacillus subtilis|CP011534|c4,-1
-Bacillus subtilis subsp spizizenii ATCC 6633|ADGS01000013|c1,-1
 bacillaene_Bsub,-1
-Bacillus subtilis|CP010053|c5,-1
-Bacillus subtilis|JMNA01000003|c2,-1
-Bacillus subtilis|LDUW01000007|c1,-1
 Bacillus subtilis|CYHQ01000031|c1,1
-Streptococcus pneumoniae|CHTU01000001|c2,-1
-Bacillus subtilis PY79|CP006881|c5,-1
-Bacillus subtilis subsp subtilis str RO-NN-1|CP002906|c4,-1
-Bacillus subtilis subsp subtilis|JPVX01000003|c1,-1
-Bacillus subtilis|CYHJ01000033|c1,-1
-Bacillus subtilis subsp subtilis str 168|AL009126|c5,-1
-Bacillus tequilensis|LGRW01000002|c2,-1
-Bacillus subtilis HJ5|CP007173|c4,-1
-Bacillus subtilis|CP009796|c4,-1
-Bacillus subtilis E1|CAUC01000006|c3,-1
-Bacillus subtilis subsp spizizenii TU-B-10|CP002905|c4,-1
-Bacillus subtilis|JYFL01000003|c3,-1
-Bacillus subtilis subsp subtilis str SC-8|AGFW01000009|c1,-1
-Bacillus subtilis|JMEF01000012|c1,-1
-Bacillus subtilis subsp subtilis str BSP1|CP003695|c7,-1
-Bacillus subtilis subsp subtilis str JH642 substr AG174|CP007800|c5,-1
-Bacillus subtilis subsp subtilis|JPVW01000002|c1,-1
-Bacillus sp EGD-AK10|AVPM01000001|c1,-1
-Bacillus atrophaeus|CP010778|c3,-1
-Bacillus subtilis subsp subtilis str 168|CP010052|c5,-1
-Bacillus subtilis subsp spizizenii str W23|CP002183|c5,-1
-Bacillus sp A053|JXAJ01000002|c4,-1
-Bacillus subtilis|CYHO01000081|c1,-1
-Bacillus sp JS|CP003492|c5,-1
-Bacillus subtilis|JPNZ01000001|c3,-1
-Bacillus atrophaeus UCMB-5137|CP011802|c3,-1
-Bacillus subtilis BEST7003|AP012496|c6,-1
-Bacillus sp LM 4-2|CP011101|c4,-1
-Bacillus subtilis subsp niger|JMTJ01000003|c7,-1
-Bacillus subtilis subsp spizizenii|CP010434|c5,-1
-Bacillus subtilis subsp subtilis str AG1839|CP008698|c5,-1
-Bacillus sp YP1|CP010014|c5,-1
-Jeotgalibacillus marinus|LILA01000001|c3,-1
-Bacillus subtilis KCTC 1028|CP011115|c5,-1
-Bacillus subtilis QB928|CP003783|c5,-1
-Bacillus subtilis BSn5|CP002468|c11,-1
-Bacillus subtilis MB732|AOTY01000002|c3,-1
-Bacillus sp BSC154|JPWY01000019|c4,-1
-Bacillus subtilis TO-A|CP005997|c5,-1
-Bacillus murimartini|LGUH01000004|c2,-1
-Bacillus subtilis subsp subtilis 6051-HGW|CP003329|c5,-1
-Bacillus subtilis|JXLQ01000013|c2,-1
 Bacillus amyloliquefaciens UASWS BA1|AWQY01000013|c1,1
 Bacillus velezensis|JXAM01000042|c1,1
 Bacillus amyloliquefaciens|JQNZ01000008|c1,1
@@ -1298,19 +719,15 @@ Bacillus cereus BAG5X1-1|AHDJ01000065|c1,1
 Bacillus amyloliquefaciens|JMEG01000008|c1,-1
 Bacillus subtilis|CYHS01000094|c1,1
 Bacillus amyloliquefaciens|JUDU01000056|c1,1
-Bacillus sp FJAT-27445|LFZT01000006|c1,-1
 Paenibacillus polymyxa|JMIQ01000008|c1,1
 Bacillus amyloliquefaciens|JMEG01000006|c1,-1
 Pelosinus fermentans JBW45|CP010978|c10,-1
 Bacillus cereus BAG5X1-1|AHDJ01000066|c1,1
 Pelosinus fermentans JBW45|CP010978|c4,-1
 Streptomyces himastatinicus ATCC 53653|GG657754|c30,-1
-Corallococcus coralloides|HM071004|c1,1
 corallopyronin,-1
 myxopyronin,-1
-Myxococcus fulvus|KF356280|c1,1
 Streptomyces auratus AGR0001|AJGV01000165|c1,1
-Amycolatopsis rifamycinica|JMQI01000026|c1,-1
 Streptomyces sp YIM 56141|JX014302|c1,-1
 Streptomyces anulatus|JPZP01000007|c14,-1
 Streptomyces acidiscabies|JPPY01000213|c1,-1
@@ -1330,19 +747,12 @@ Burkholderia gladioli|JPGG01000016|c7,-1
 Pseudomonas syringae pv aceris str M302273|AEAO01000064|c1,1
 Pseudomonas syringae pv aptata str DSM 50252|AEAN01000377|c1,1
 Pseudomonas syringae pv pisi str 1704B|AEAI01000264|c1,1
-Streptomyces sp ACT-1|GL877172|c32,-1
-Streptomyces griseus subsp griseus NBRC 13350|AP009493|c33,-1
 Streptomyces sp W007|AGSW01000116|c1,-1
 Streptomyces chattanoogensis|LGKG01000155|c1,1
 Streptomyces platensis subsp rosaceus|GQ274953|c1,1
 Streptomyces lydicus A02|CP007699|c4,1
 dorrigocin_migrastatin,1
 Streptomyces amphibiosporus|GQ274954|c1,1
-Magnetospirillum gryphiswaldense MSR-1 v2|HG794546|c3,-1
-Oceanibaculum indicum P24|AMRL01000010|c1,1
-Labrenzia alba|CXWE01000001|c1,-1
-Labrenzia alba|CXWA01000005|c1,-1
-Labrenzia alba|CXWC01000011|c1,-1
 Candidatus Profftella armatura|CP012591|c2,-1
 Saccharomonospora xinjiangensis XJ-54|JH636049|c16,1
 Scytonema sp PCC 10023|KR857271|c1,1
@@ -1356,14 +766,9 @@ rhizopodin,-1
 Myxococcus stipitatus DSM 14675|CP004025|c22,-1
 Myxococcus stipitatus DSM 14675|CP004025|c23,-1
 Herbaspirillum sp CF444|AKJW01000011|c1,-1
-Duganella sp Leaf61|LMLM01000033|c1,-1
-Pseudogulbenkiania ferrooxidans EGD-HP2|AVPH01000301|c1,1
-Fulvivirga imtechensis AK7|AMZN01000028|c1,-1
-Massilia sp Root335|LMCY01000011|c2,-1
 Candidatus Endobugula sertula|EF032014|c1,1
 Candidatus Endobugula sertula|DQ889941|c1,1
 bryostatin,1
-Xanthomonas campestris pv cannabis|JSZF01000096|c1,1
 Pseudomonas sp 2663|FR901464|HM047288,-1
 Burkholderia sp FERM BP-3421|KJ461964|c1,-1
 thailanstatin,-1
@@ -1383,19 +788,11 @@ symbiont bacterium of Theonella swinhoei Bacteria|AY688304|c1,1
 Nostoc sp Peltigera membranacea cyanobiont|GQ979609|c1,1
 nosperin,1
 Thioploca ingrica|AP014633|c5,-1
-myxovirescin,-1
-Myxococcus xanthus DK 1622|CP000113|c14,-1
 Gynuella sunshinyii YC6258|CP007142|c7,-1
 Leptolyngbya sp PCC 7375|ALVN01000014|c2,-1
 phormidolide,-1
-Dickeya zeae EC1|CP006929|c6,-1
 oocydin_Smar,-1
-Serratia marcescens|JX315603|c1,-1
-Serratia plymuthica 4Rx13|CP006250|c7,-1
-Serratia plymuthica|JX315604|c1,-1
 oocydin_Ddad,-1
-Dickeya paradisiaca Ech703|CP001654|c1,-1
-Dickeya solani D s0432-1|AMWE01000004|c3,-1
 Chromobacterium violaceum|JYGI01000030|c2,-1
 Ralstonia solanacearum CFBP2957|FP885907|c3,-1
 Pseudomonas sp Os17|AP014627|c2,-1
@@ -1405,10 +802,7 @@ Paraburkholderia endofungorum|HE963103|c1,1
 rhizoxins,1
 Paraburkholderia rhizoxinica HKI 454|FR687359|c3,1
 Paraburkholderia rhizoxinica|AM411073|c1,1
-calyculin,1
 etnangien,-1
-Sorangium cellulosum So ce56|AM746676|c14,-1
-Burkholderia gladioli|CP009322|c1,-1
 sorangicin,-1
 Sorangium cellulosum|HM584908|c1,-1
 Candidatus Magnetomorum sp HK-1|JPDT01000569|c2,-1
@@ -1421,54 +815,29 @@ Pseudomonas fluorescens|AF318063|c1,1
 Pseudomonas sp BRG-100|JPRX01000001|c3,-1
 Bacillus velezensis SQR9|CP006890|c2,-1
 Sporomusa ovata DSM 2662|ASXP01000007|c1,-1
-Bacillus subtilis|CP009749|c2,-1
 Bacillus velezensis|CP011347|c12,-1
-kalimantacin_batumin,-1
-Pseudomonas fluorescens|GU479979|c1,-1
-Pseudomonas batumici|JXDG01000003|c1,-1
 Streptomyces griseoflavus Tu4000|GG657758|c21,-1
 SIA7248,-1
 Streptomyces sp A7248|JQ269659|c1,1
-Enhygromyxa salina|JMCC02000002|c1,-1
-Chondromyces apiculatus DSM 436|ASRX01000032|c1,-1
 Paenibacillus sp FSL R5-808|ASPT01000003|c1,-1
 Paenibacillus mucilaginosus KNP414|CP002869|c2,-1
-Paenibacillus sp JCM 10914|BAUO01000002|c1,-1
 Paenibacillus mucilaginosus 3016|CP003235|c2,-1
 Paenibacillus mucilaginosus K02|CP003422|c2,-1
 Paenibacillus vortex V453|ADHJ01000037|c1,-1
 Candidatus Magnetomorum sp HK-1|JPDT01000312|c1,1
-Pelosinus fermentans JBW45|CP010978|c9,-1
 Ralstonia solanacearum Po82|CP002820|c3,1
 Ralstonia solanacearum P673|JALO01000221|c1,1
 blood disease bacterium R229|FR854071|c2,-1
 elansolid_Cpin,-1
 elansolid_Csan,-1
-Chitinophaga pinensis DSM 2588|CP001699|c13,-1
-Chitinophaga sancti|HQ680975|c1,1
 Bacillus sp FJAT-27238|LGJF01000001|c3,-1
-Brevibacillus sp BC25|AKIX01000013|c1,-1
 Brevibacillus formosus|LDCN01000001|c6,-1
-Brevibacillus brevis NBRC 100599|AP008955|c9,-1
 Paenibacillus sp ICGEB2008|AMQU01000019|c1,1
-Paenibacillus polymyxa CR1|CP006941|c8,-1
 Pseudomonas sp GM17|AKJU01000004|c1,1
 Brevibacillus sp Leaf182|LMPN01000030|c1,-1
-Kordia algicida OT-1|ABIB01000015|c1,1
 Paenibacillus polymyxa|JYCW01000008|c1,1
-Paenibacillus polymyxa SQR-21|CP006872|c10,-1
-Paenibacillus polymyxa|JTHO01000001|c1,-1
-Paenibacillus polymyxa SC2|CP002213|c9,-1
-Paenibacillus polymyxa|CP009909|c3,-1
-Paenibacillus polymyxa M1|HE577054|c9,-1
-Paenibacillus peoriae|CP011512|c10,-1
-Paenibacillus polymyxa E681|CP000154|c6,-1
-Paenibacillus polymyxa|CP010268|c10,-1
 Pelosinus fermentans JBW45|CP010978|c1,-1
 Gynuella sunshinyii YC6258|CP007142|c11,-1
-Flavobacterium sp KMS|JSYP01000020|c1,-1
-Flavobacterium sp JRM|JSYO01000057|c1,-1
-Serratia fonticola AU-P33|ASZB01000003|c1,-1
 Gynuella sunshinyii YC6258|CP007142|c10,-1
 Burkholderia thailandensis E444|CP004118|c2,-1
 Massilia sp NR 4-1|CP012201|c6,-1

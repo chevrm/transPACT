@@ -13,9 +13,13 @@ while(<$afh>){
     my ($pathway, @ks) = split(/\t/, $_);
     my $ks_n = 0;
     foreach my $k (@ks){
-	$ks_n += 1 if($k =~ m/^Clade/);
+	if($k =~ m/^Clade/){
+	    $ks_n += 1;
+	}else{
+	    last;
+	}
     }
-    if($ks_n == 1){
+    if($ks_n <= 1){
 	$torm{$pathway} = 1 unless($pathway =~ m/^OUTGROUP/);
     }
 }
