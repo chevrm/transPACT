@@ -120,12 +120,19 @@ def get_clade(q, tree_hits, t, funClades):
         elif ln[-2] == '#'+q:
             keep.append(leaf)
     newtree.prune(keep)
-    grandparent = None
+    grandparent, parent, elder = None, None, None
     for leaf in newtree.get_leaves():
         if leaf.name == qname:
+            parent = leaf.up
             grandparent = leaf.up.up
             break
-    for leaf in grandparent.get_leaves():
+    #print "\nSiblings: "+str(len(parent.get_leaves()))
+    #print "Cousins: "+str(len(grandparent.get_leaves()))
+    if len(parent.get_leaves()) > 2:
+        elder = parent
+    else:
+        elder = grandparent
+    for leaf in elder.get_leaves():
         if leaf.name == qname:
             continue
         elif leaf.name in funClades:
@@ -140,7 +147,7 @@ def get_clade(q, tree_hits, t, funClades):
                 cladelist['unknown_clade'] += 1
             else:
                 cladelist['unknown_clade'] = 1
-    clade_assignment = 'clade_not_conserved'
+    clade_assignment = 'clade_not_conserved'   
     if len(cladelist.keys()) == 1:
         for k in cladelist:
             clade_assignment = k
@@ -524,7 +531,7 @@ d = './data'
 leaf2cladetbl = './data/dendrogram20190514/Annotation_MC_final.txt'
 funClades, clade2ann = get_leaf2clade(leaf2cladetbl)
 fa = SeqIO.parse(open(sys.argv[1]),'fasta')
-print "\t".join(['query_seq_id', 'clade_assignment', 'clade_annotation'])
+#print "\t".join(['query_seq_id', 'clade_assignment', 'clade_annotation'])
 for rec in fa:
     ks_names = []
     ks_seqs = []
@@ -536,4 +543,7 @@ for rec in fa:
     for f in ['pplacer_tree.jplace', 'pplacer_tree.sing.tre', 'precomp_funcAnnotate_perKS.txt']:
         os.remove(f)
     for k in clade:
-        print "\t".join([str(k), str(clade[k]), clade2ann[clade[k]]])
+        if clade[k] in clade2ann:
+            print "\t".join([str(k), str(clade[k]), clade2ann[clade[k]]])
+        else:
+            print "\t".join([str(k), str(clade[k]), 'NA'])
