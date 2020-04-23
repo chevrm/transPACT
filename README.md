@@ -1,5 +1,5 @@
-# _trans_PACT
-trans_-AT **P**KS **A**nnotation and **C**omparison **T**ool
+# transPACT
+_trans_-AT **P**KS **A**nnotation and **C**omparison **T**ool
 
 <center><img src="/images/logos.png" alt="logos"
 	title="transPACT is a joint collaboration between the University of Wisconsin-Madison, ETH Zurich, and Wageningen University" width="300" height="200" /></center>
@@ -18,7 +18,7 @@ EJN Helfrich*, R Ueoka*, MG Chevrette*, F Hemmerling, X Lu, S Leopold-Messer, AY
 
 ## Brief description
 
-_Trans_-acyltransferase polyketide synthases (_trans_-AT PKSs) are multimodular enzymes that biosynthesize diverse pharmaceutically and ecologically important natural products. Here, we developed and applied a phylogenomic algorithm, _trans_PACT (_trans_-AT **P**KS **A**nnotation and **C**omparison **T**ool), to perform a global computational analysis of _trans_-AT PKS gene clusters, identifying hundreds of evolutionarily conserved module blocks. Network analysis of their exchange patterns reveals a widespread diversification mechanism for these enzymes. _trans_PACT implementation to assign substrate specificity to _trans_-AT PKS's ketosynthase (KS) domains can be found within this repository, as well as helper scripts used to generate the global _trans_-AT PKS network. _trans_PACT is typically run independently, but is built within the antiSMASH 4.x architecture \[[paper](https://academic.oup.com/nar/article/45/W1/W36/3778252 "Link to paper")\] \[[repo](https://bitbucket.org/antismash/antismash/src/master/ "Link to repository")\].
+_Trans_-acyltransferase polyketide synthases (_trans_-AT PKSs) are multimodular enzymes that biosynthesize diverse pharmaceutically and ecologically important natural products. Here, we developed and applied a phylogenomic algorithm, transPACT (_trans_-AT **P**KS **A**nnotation and **C**omparison **T**ool), to perform a global computational analysis of _trans_-AT PKS gene clusters, identifying hundreds of evolutionarily conserved module blocks. Network analysis of their exchange patterns reveals a widespread diversification mechanism for these enzymes. transPACT implementation to assign substrate specificity to _trans_-AT PKS's ketosynthase (KS) domains can be found within this repository, as well as helper scripts used to generate the global _trans_-AT PKS network. transPACT is typically run independently, but is built within the antiSMASH 4.x architecture \[[paper](https://academic.oup.com/nar/article/45/W1/W36/3778252 "Link to paper")\] \[[repo](https://bitbucket.org/antismash/antismash/src/master/ "Link to repository")\].
 
 ## Set up environment
 
@@ -30,10 +30,10 @@ This creates a new environment called `transPACT` with all dependencies installe
 
 `conda activate transPACT`
 
-## Running _trans_PACT to assign KS substrate specificity 
+## Running transPACT to assign KS substrate specificity 
 
 * `python2 transPACT_substrate_from_faa.py <protein_fasta_of_KS_domains.faa>`
-  * _trans_PACT prediction of _trans_-AT substrate from a protein fasta. An example is provided in `example/test.faa`.
+  * transPACT prediction of _trans_-AT substrate from a protein fasta. An example is provided in `example/test.faa`.
   * Tab separated output (default is to STDOUT; redirect to a file to save results)
   
 * `python2 ./data/dendrogram20190829/generate_dendrogram_userweights.py <Jaccard_weight> <DSS_weight> <AdjacencyIndex_weight>`
@@ -43,7 +43,7 @@ This creates a new environment called `transPACT` with all dependencies installe
   * Not provided in this repo (due to size): all vs all diamond table (filename set at line 576).
   * Output is a newick format dendrogram that can be visualized in any number of tree visualization software. We recommend iTOL, and have used that for out global analysis \[[iTOL](https://itol.embl.de/ "Link to iTOL")\] \[[our analysis](https://itol.embl.de/tree/12810415342393521582825923# "Link to our global trans-AT dendrogram")\]. Extensive documentation on annotating iTOL trees can be found [here](https://itol.embl.de/help.cgi#datasets "Link to iTOL documentation"). Our annotation files are at `data/dendrogram20200227/itol_bin.txt` for denoting whether a BGC lies on a contig edge and `data/dendrogram20200227/itol_dom.txt` for annotating the KS-domain clades of the pathway.
   
-## What's actually happening when I run _trans_PACT?
+## What's actually happening when I run transPACT?
 
-The core _trans_PACT algorithm is found at `antismash/specific_modules/nrpspks/nrpspksdomainalign/substrate_from_faa.py`. It has been symbolically linked at `transPACT_substrate_from_faa.py` for user convenience. For each ketosynthase domain (input as a protein fasta), KSs are aligned to a reference alignment of a core set of 647 experimentally characterized KS domains with MUSCLE (see `align_ks_domains()`; invoked on line 533). This alignment is used to phylogenetically place the query sequence onto a reference phylogeny (placement with pplacer; see `run_pipeline_pplacer()`; invoked on line 534) and query sequences are assigned to a clade and functional classification based on monophyly (see `parse_pplacer()`).
+The core transPACT algorithm is found at `antismash/specific_modules/nrpspks/nrpspksdomainalign/substrate_from_faa.py`. It has been symbolically linked at `transPACT_substrate_from_faa.py` for user convenience. For each ketosynthase domain (input as a protein fasta), KSs are aligned to a reference alignment of a core set of 647 experimentally characterized KS domains with MUSCLE (see `align_ks_domains()`; invoked on line 533). This alignment is used to phylogenetically place the query sequence onto a reference phylogeny (placement with pplacer; see `run_pipeline_pplacer()`; invoked on line 534) and query sequences are assigned to a clade and functional classification based on monophyly (see `parse_pplacer()`).
 
