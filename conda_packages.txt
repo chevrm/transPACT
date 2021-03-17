@@ -4,7 +4,7 @@
 @EXPLICIT
 https://repo.anaconda.com/pkgs/main/linux-64/_libgcc_mutex-0.1-main.tar.bz2
 https://conda.anaconda.org/bioconda/linux-64/pplacer-1.1.alpha19-1.tar.bz2
-https://conda.anaconda.org/conda-forge/linux-64/ca-certificates-2020.6.20-hecda079_0.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/ca-certificates-2020.12.5-ha878542_0.tar.bz2
 https://repo.anaconda.com/pkgs/main/linux-64/libgcc-ng-9.1.0-hdf63c60_0.tar.bz2
 https://repo.anaconda.com/pkgs/main/linux-64/libgfortran-ng-7.3.0-hdf63c60_0.tar.bz2
 https://repo.anaconda.com/pkgs/main/linux-64/libstdcxx-ng-9.1.0-hdf63c60_0.tar.bz2
@@ -24,6 +24,7 @@ https://conda.anaconda.org/conda-forge/linux-64/libopenblas-0.3.6-h6e990d7_4.tar
 https://conda.anaconda.org/conda-forge/linux-64/libtool-2.4.6-h14c3975_1002.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/libuuid-2.32.1-h14c3975_1000.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/lz4-c-1.8.3-he1b5a44_1001.tar.bz2
+https://conda.anaconda.org/bioconda/linux-64/muscle-3.8.1551-hc9558a2_5.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/ncurses-6.1-hf484d3e_1002.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/openssl-1.1.1g-h516909a_0.tar.bz2
 https://conda.anaconda.org/bioconda/linux-64/paml-4.9-h14c3975_4.tar.bz2
