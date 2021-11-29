@@ -8,9 +8,7 @@ transPACT is a joint collaboration between the University of Wisconsin-Madison, 
 
 ### Reference:
 
-_"Evolution of combinatorial diversity in trans-acyltransferase polyketide synthase assembly lines."_
-
-EJN Helfrich*, R Ueoka*, MG Chevrette*, F Hemmerling, X Lu, S Leopold-Messer, AY Burch, SE Lindow, J Handelsman, J Piel†, MH Medema†
+EJN Helfrich*, R Ueoka*, MG Chevrette*, F Hemmerling, X Lu, S Leopold-Messer, AY Burch, SE Lindow, J Handelsman, J Piel†, MH Medema†. _Evolution of combinatorial diversity in trans-acyltransferase polyketide synthase assembly lines across bacteria_. 2021. ___Nature Communications___ __12__, 1422. [10.1038/s41467-021-21163-x](https://doi.org/10.1038/s41467-021-21163-x "Link to paper")
 
 \* equal contributions
 
