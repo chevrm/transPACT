@@ -37,7 +37,7 @@ Install/setup time on a "normal" desktop computer should be less than 5 minutes.
   * Tab separated output (default is to STDOUT; redirect to a file to save results)
   * Run time on a "normal" desktop computer should be less than 1 minute per KS domain. Run time for a singe KS domain was benchmarked at 7 seconds with `date && python2 transPACT_substrate_from_faa.py example/test.faa && date`
   
-* `python2 ./data/dendrogram20190829/generate_dendrogram_userweights.py <Jaccard_weight> <DSS_weight> <AdjacencyIndex_weight>`
+* `python2 ./data/dendrogram20200320/generate_dendrogram_userweights.py <Jaccard_weight> <DSS_weight> <AdjacencyIndex_weight>`
   * Generate _trans_-AT pathway dendrogram
   * Implementation of Jaccard index (JI), domain sequence similariry (DSS), and adjacency index is as described in BiG-SCAPE \[[paper](https://www.nature.com/articles/s41589-019-0400-9 "Link to paper")\]. Briefly, JI measures the percentage of shared types of domains, DSS measures sequence identity between protein domains, and AI measures the percentage of pairs of adjacent domains.
     * Suggested weights are JI = 0, DSS = 0.32, AI = 0.68, the same weights that are used in BiG-SCAPE's distance calculation for _trans_-AT PKS pathways.
